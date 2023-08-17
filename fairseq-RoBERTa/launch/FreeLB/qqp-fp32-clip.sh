@@ -51,8 +51,16 @@ CUDA_VISIBLE_DEVICES=${GPU} \
 
 
 # run_exp   GPU    TOTAL_NUM_UPDATES    WARMUP_UPDATES  LR      NUM_CLASSES MAX_SENTENCES   FREQ    DATA    ADV_LR  ADV_STEP  INIT_MAG  SEED    MNORM
-run_exp      0        113272                28318         1e-5       2           32           1      QQP      2e-1        2      3.2e-1 1114    7e-1
-run_exp      1        113272                28318         1e-5       2           32           1      QQP      2e-1        2      3.2e-1 2333    7e-1
-run_exp      2        113272                28318         1e-5       2           32           1      QQP      2e-1        2      3.2e-1 9017    7e-1
-run_exp      3        113272                28318         1e-5       2           32           1      QQP      2e-1        2      3.2e-1 8888    7e-1
+# run_exp      0        113272                28318         1e-5       2           32           1      QQP      2e-1        2      3.2e-1 1114    7e-1
+# run_exp      1        113272                28318         1e-5       2           32           1      QQP      2e-1        2      3.2e-1 2333    7e-1
+# run_exp      2        113272                28318         1e-5       2           32           1      QQP      2e-1        2      3.2e-1 9017    7e-1
+# run_exp      3        113272                28318         1e-5       2           32           1      QQP      2e-1        2      3.2e-1 8888    7e-1
 
+# run_exp         2       113272                28318         1e-5       2           32          1       QQP     0           0       0     1000    0
+# run_exp         2       226544                56636         1e-5       2           16          1       QQP     0           0       0     1000    0
+# run_exp         2       453088               113272         1e-5       2           8           1       QQP     0           0       0     1000    0
+# run_exp         2       906176               226544         1e-5       2           4           1       QQP     0           0       0     1000    0
+# run_exp         2       113272                28318         1e-5       2           32          1       QQP     2e-1        2      3.2e-1     1000    7e-1
+# run_exp         2       226544                56636         1e-5       2           16          1       QQP     2e-1        2      3.2e-1     1000    7e-1
+# run_exp         2       453088               113272         1e-5       2           8           1       QQP     2e-1        2      3.2e-1     1000    7e-1
+# run_exp         2       906176               226544         1e-5       2           4           1       QQP     2e-1        2      3.2e-1     1000    7e-1

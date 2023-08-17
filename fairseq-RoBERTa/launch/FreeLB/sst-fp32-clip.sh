@@ -51,9 +51,17 @@ CUDA_VISIBLE_DEVICES=${GPU} \
 
 
 # run_exp   GPU    TOTAL_NUM_UPDATES    WARMUP_UPDATES  LR      NUM_CLASSES MAX_SENTENCES   FREQ    DATA    ADV_LR  ADV_STEP  INIT_MAG  SEED    MNORM
-#run_exp      0        20935                1256         1e-5       2            8            4      SST-2    1e-1     2        5e-1      2333     4e-1
-#run_exp      1        20935                1256         1e-5       2            8            4      SST-2    1e-1     2        5e-1      9017     4e-1
-#run_exp      2        20935                1256         1e-5       2            8            4      SST-2    1e-1     2        5e-1      1234     4e-1
-#run_exp      3        20935                1256         1e-5       2            8            4      SST-2    1e-1     2        5e-1      7456     4e-1
-run_exp      0        20935                1256         1e-5       2            8            4      SST-2    1e-1     2          1      98764     6e-1
+#run_exp      0        20935                1256         1e-5       2            8            1      SST-2    1e-1     2        5e-1      2333     4e-1
+#run_exp      1        20935                1256         1e-5       2            8            1      SST-2    1e-1     2        5e-1      9017     4e-1
+#run_exp      2        20935                1256         1e-5       2            8            1      SST-2    1e-1     2        5e-1      1234     4e-1
+#run_exp      3        20935                1256         1e-5       2            8            1      SST-2    1e-1     2        5e-1      7456     4e-1
+#run_exp      2        20935                1256         1e-5       2            8            1      SST-2    1e-1     2          1      98764     6e-1
 
+# run_exp      3        20935                1256         1e-5       2           32            1      SST-2    0     0          0      1000     0
+# run_exp      3        41870                2512         1e-5       2           16            1      SST-2    0     0          0      1000     0
+# run_exp      3        83740                5024         1e-5       2            8            1      SST-2    0     0          0      1000     0
+# run_exp      3       167480               10048         1e-5       2            4            1      SST-2    0     0          0      1000     0
+# run_exp      3        20935                1256         1e-5       2           32            1      SST-2    1e-1     2        5e-1      1000     4e-1
+# run_exp      3        41870                2512         1e-5       2           16            1      SST-2    1e-1     2        5e-1      1000     4e-1
+# run_exp      3        83740                5024         1e-5       2            8            1      SST-2    1e-1     2        5e-1      1000     4e-1
+# run_exp      3       167480               10048         1e-5       2            4            1      SST-2    1e-1     2        5e-1      1000     4e-1

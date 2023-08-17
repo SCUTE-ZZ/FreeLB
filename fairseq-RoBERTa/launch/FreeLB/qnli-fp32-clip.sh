@@ -16,7 +16,8 @@ function run_exp {
 
 ROBERTA_PATH=pretrained/roberta.large/model.pt
 exp_name=FreeLB-syncdp-${DATA}-iters${TOTAL_NUM_UPDATES}-warmup${WARMUP_UPDATES}-lr${LR}-bsize${MAX_SENTENCES}-freq${FREQ}-advlr${ADV_LR}-advstep${ADV_STEPS}-initmag${INIT_MAG}-fp32-seed${SEED}-beta0.999-morm${MNORM}
-log_path=/scratch0/roberta-logs/${exp_name}.log
+#log_path=/scratch0/roberta-logs/${exp_name}.log
+log_path=logs/${exp_name}.log
 echo "running with GPU"${GPU}
 echo ${log_path}
 CUDA_VISIBLE_DEVICES=${GPU} \
@@ -37,7 +38,7 @@ CUDA_VISIBLE_DEVICES=${GPU} \
     --dropout 0.1 --attention-dropout 0.1 \
     --weight-decay 0.1 --optimizer adam --adam-betas "(0.9, 0.999)" --adam-eps 1e-06 \
     --clip-norm 0.0 \
-    --save-dir /scratch0/roberta-chks/${exp_name} \
+    --save-dir roberta-chks/${exp_name} \
     --lr-scheduler polynomial_decay --lr $LR --total-num-update $TOTAL_NUM_UPDATES --warmup-updates $WARMUP_UPDATES \
     --max-epoch 10 \
     --seed ${SEED} \
@@ -52,11 +53,18 @@ CUDA_VISIBLE_DEVICES=${GPU} \
 
 # run_exp   GPU    TOTAL_NUM_UPDATES    WARMUP_UPDATES  LR      NUM_CLASSES MAX_SENTENCES   FREQ    DATA    ADV_LR  ADV_STEP  INIT_MAG  SEED    MNORM
 #run_exp      5        33112                 1986         1e-5       2           4            8      QNLI     5e-2      2       1e-1     7456    2e-1
-#run_exp      5        33112                 1986         1e-5       2           2            16      QNLI     5e-2      3       1.5e-1     7456    1.5e-1
+#run_exp      5        33112                 1986         1e-5       2           2            1      QNLI     5e-2      3       1.5e-1     7456    1.5e-1
+#run_exp      1        33112                 1986         1e-5       2           2            1      QNLI     5e-2      2       1.5e-1     7456    1.5e-1
+#run_exp      2        33112                 1986         1e-5       2           2            1      QNLI   7.5e-2      2       1.5e-1     7456    1.5e-1
+#run_exp      3        33112                 1986         1e-5       2           2            1      QNLI     1e-1      2       1.5e-1     7456    1.5e-1
+#run_exp      3        33112                 1986         1e-5       2           2            1      QNLI   7.5e-2      2       1.5e-1     2333    1.5e-1
+#run_exp      7        33112                 1986         1e-5       2           2            1      QNLI   7.5e-2      2       1.5e-1     9017    1.5e-1
 
-#run_exp      1        33112                 1986         1e-5       2           2            16      QNLI     5e-2      2       1.5e-1     7456    1.5e-1
-#run_exp      2        33112                 1986         1e-5       2           2            16      QNLI   7.5e-2      2       1.5e-1     7456    1.5e-1
-#run_exp      3        33112                 1986         1e-5       2           2            16      QNLI     1e-1      2       1.5e-1     7456    1.5e-1
-
-run_exp      6        33112                 1986         1e-5       2           2            16      QNLI   7.5e-2      2       1.5e-1     2333    1.5e-1
-run_exp      7        33112                 1986         1e-5       2           2            16      QNLI   7.5e-2      2       1.5e-1     9017    1.5e-1
+# run_exp      1        33112                 1986         1e-5       2           32            1      QNLI       0      0       0     1000    0
+# run_exp      1        66224                 3972         1e-5       2           16            1      QNLI       0      0       0     1000    0
+# run_exp      1       132448                 7944         1e-5       2            8            1      QNLI       0      0       0     1000    0
+# run_exp      1       264896                15888         1e-5       2            4            1      QNLI       0      0       0     1000    0
+# run_exp      1        33112                 1986         1e-5       2           32            1      QNLI       7.5e-2      2       1.5e-1     1000    1.5e-1
+# run_exp      1        66224                 3972         1e-5       2           16            1      QNLI       7.5e-2      2       1.5e-1     1000    1.5e-1
+# run_exp      1       132448                 7944         1e-5       2            8            1      QNLI       7.5e-2      2       1.5e-1     1000    1.5e-1
+# run_exp      1       264896                15888         1e-5       2            4            1      QNLI       7.5e-2      2       1.5e-1     1000    1.5e-1

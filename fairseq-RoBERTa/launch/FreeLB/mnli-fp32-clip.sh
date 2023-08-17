@@ -51,16 +51,24 @@ CUDA_VISIBLE_DEVICES=${GPU} \
 
 
 # run_exp   GPU    TOTAL_NUM_UPDATES    WARMUP_UPDATES      LR      NUM_CLASSES MAX_SENTENCES   FREQ    DATA    ADV_LR  ADV_STEP  INIT_MAG   SEED   MNORM
-#run_exp      4           123873               7432         1e-05       3            3             11       MNLI   1e-1        2    1e-2   8888      2e-1
-#run_exp      0           123873               7432         1e-05       3            3             11       MNLI   1e-1        2     2e-1   8888      2e-1
-#run_exp      1           123873               7432         1e-05       3            3             11       MNLI   1e-1        2     2e-1   1114      2e-1
-#run_exp      2           123873               7432         1e-05       3            3             11       MNLI   1e-1        2     2e-1   7456      2e-1
-#run_exp      3           123873               7432         1e-05       3            3             11       MNLI   1e-1        2     2e-1   2333      2e-1
-#run_exp      4           123873               7432         1e-05       3            3             11       MNLI   1e-1        2     2e-1   9017      2e-1
+#run_exp      4           123873               7432         1e-05       3            3             1       MNLI   1e-1        2    1e-2   8888      2e-1
+#run_exp      0           123873               7432         1e-05       3            3             1       MNLI   1e-1        2     2e-1   8888      2e-1
+#run_exp      1           123873               7432         1e-05       3            3             1       MNLI   1e-1        2     2e-1   1114      2e-1
+#run_exp      2           123873               7432         1e-05       3            3             1       MNLI   1e-1        2     2e-1   7456      2e-1
+#run_exp      3           123873               7432         1e-05       3            3             1       MNLI   1e-1        2     2e-1   2333      2e-1
+#run_exp      4           123873               7432         1e-05       3            3             1       MNLI   1e-1        2     2e-1   9017      2e-1
+#run_exp      0           123873               7432         1e-05       3            3             1       MNLI   1e-1        2     1e-1   8888      3e-1
+#run_exp      1           123873               7432         1e-05       3            3             1       MNLI   1e-1        2     1e-1   1114      3e-1
+#run_exp      0           123873               7432         1e-05       3            3             1       MNLI   1e-1        2     1e-1   7456      3e-1
+#run_exp      1           123873               7432         1e-05       3            3             1       MNLI   1e-1        2     1e-1   2333      3e-1
+#run_exp      2           123873               7432         1e-05       3            3             1       MNLI   1e-1        2     1e-1   9017      3e-1
 
-#run_exp      0           123873               7432         1e-05       3            3             11       MNLI   1e-1        2     1e-1   8888      3e-1
-#run_exp      1           123873               7432         1e-05       3            3             11       MNLI   1e-1        2     1e-1   1114      3e-1
-run_exp      0           123873               7432         1e-05       3            3             11       MNLI   1e-1        2     1e-1   7456      3e-1
-run_exp      1           123873               7432         1e-05       3            3             11       MNLI   1e-1        2     1e-1   2333      3e-1
-run_exp      2           123873               7432         1e-05       3            3             11       MNLI   1e-1        2     1e-1   9017      3e-1
+# run_exp      0           123873               7432         1e-05       3           32             1         MNLI    0        0       0      1000      0       
+# run_exp      0           247746              14864         1e-05       3           16             1         MNLI    0        0       0      1000      0     
+# run_exp      0           495492              29738         1e-05       3            8             1         MNLI    0        0       0      1000      0       
+# run_exp      0           990984              59456         1e-05       3            4             1         MNLI    0        0       0      1000      0       
+# run_exp      0           123873               7432         1e-05       3           32             1         MNLI   1e-1        2     1e-1   1000      3e-1
+# run_exp      0           247746              14864         1e-05       3           16             1         MNLI   1e-1        2     1e-1   1000      3e-1
+# run_exp      0           495492              29738         1e-05       3            8             1         MNLI   1e-1        2     1e-1   1000      3e-1
+# run_exp      0           990984              59456         1e-05       3            4             1         MNLI   1e-1        2     1e-1   1000      3e-1
 

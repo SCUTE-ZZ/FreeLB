@@ -51,8 +51,22 @@ CUDA_VISIBLE_DEVICES=${GPU} \
 
 
 # run_exp   GPU    TOTAL_NUM_UPDATES    WARMUP_UPDATES  LR      NUM_CLASSES MAX_SENTENCES   FREQ    DATA    ADV_LR  ADV_STEP  INIT_MAG  SEED    MNORM
-run_exp      0        1562                 122         1e-5       2           2            8     RTE           0      0       0         4207     0 
-run_exp      1        1562                 122         1e-5       2           2            8     RTE           0      0       0         9017     0 
-#run_exp      2        2036                 122         1e-5       2           2            8     RTE           6e-2      3      1.6e-1     1234  1.4e-1
-#run_exp      3        2036                 122         1e-5       2           2            8     RTE           9e-2      3      1.6e-1     1234  1.4e-1
-#run_exp      0        2036                 122         1e-5       2           2            8     RTE           6e-2      3      1.6e-1     9017  1.4e-1
+#run_exp      0        1562                 122         1e-5       2           2            1     RTE           0      0       0         4207     0 
+#run_exp      1        1562                 122         1e-5       2           2            1     RTE           0      0       0         9017     0 
+#run_exp      1        2036                 122         2e-5       2           16            1     RTE           6e-2      3      1.6e-1     9017  1.4e-1
+#run_exp      2        2036                 122         1e-5       2           2            1     RTE           6e-2      3      1.6e-1     1234  1.4e-1
+#run_exp      3        2036                 122         1e-5       2           2            1     RTE           9e-2      3      1.6e-1     1234  1.4e-1
+#run_exp      0        2036                 122         1e-5       2           2            1     RTE           6e-2      3      1.6e-1     9017  1.4e-1
+
+# run_exp      0        2036                 122         2e-5       2            16          1     RTE           0      0       0         1000     0
+# run_exp      1        4072                 244         2e-5       2            8           1     RTE           0      0       0         1000     0
+# run_exp      2        8144                 488         2e-5       2            4           1     RTE           0      0       0         1000     0
+# run_exp      3       16288                 976         2e-5       2            2           1     RTE           0      0       0         1000     0
+# run_exp      0        2036                 122         2e-5       2            16          1     RTE           6e-2      2       1.6e-1         1000     1.4e-1
+# run_exp      1        4072                 244         2e-5       2            8           1     RTE           6e-2      2       1.6e-1         1000     1.4e-1
+# run_exp      2        8144                 488         2e-5       2            4           1     RTE           6e-2      2       1.6e-1         1000     1.4e-1
+# run_exp      3       16288                 976         2e-5       2            2           1     RTE           6e-2      2       1.6e-1         1000     1.4e-1
+
+
+run_exp      1        1500                  90         2e-5       2            16          1     RTE           0      0       0         1000     0
+run_exp      2        1500                  90         2e-5       2            16          1     RTE           6e-2      2       1.6e-1         1000     1.4e-1
