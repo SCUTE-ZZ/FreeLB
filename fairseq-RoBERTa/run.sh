@@ -9,7 +9,7 @@
 
 # TASKS="QNLI QQP RTE MNLI SST-2"
 # MODELS_PATH=./roberta-chks/
-# DATAS_PATH=/home/zzding/10_AdvGLUE/00_data/AdvGLUE/SUB_data
+# DATAS_PATH=../00_data/AdvGLUE/SUB_data
 # for TASK in $TASKS; do
 #     echo $TASK
 #     MODELS=`ls $MODELS_PATH | grep $TASK | xargs`
@@ -29,7 +29,7 @@
 
 TASKS="QNLI QQP RTE MNLI SST-2"
 MODELS_PATH=./roberta-chks/
-DATAS_PATH=/home/zzding/10_AdvGLUE/00_data/AdvGLUE/SUB_data
+DATAS_PATH=..//00_data/AdvGLUE/SUB_data
 for TASK in $TASKS; do
     echo $TASK
     MODELS=`ls $MODELS_PATH | grep $TASK | xargs`
