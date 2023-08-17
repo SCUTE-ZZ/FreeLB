@@ -1,0 +1,192 @@
+[
+    {
+        "premise": "Like because my dad always treated me like a boy because I was like I was the first girl on my dad's side of the family in like, four generations or something like that.",
+        "hypothesis": " Th ey have nevr had a boy on my father ' s side of the family.",
+        "label": 2
+    },
+    {
+        "premise": " And I sajd to some of my cousins that I had only the last I had seen was at Grandpop ' s funeal.",
+        "hypothesis": "The last time I saw my nieces were at grandfather's funeral.",
+        "label": 1
+    },
+    {
+        "premise": "Regardless of where Quick Response has succeeded, however, our research indicates that very different time-based competitive demands have emerged in the industry, driven not by voluntary acceptance of policies but by the changing nature of market competition among retailers.",
+        "hypothesis": " Market competition has caused nw competitive demands.",
+        "label": 0
+    },
+    {
+        "premise": "In colonial days, housewives typically did spinning, weaving, and tailoring for the family.",
+        "hypothesis": " Housewives a lso took care of chldren in colonial days.",
+        "label": 1
+    },
+    {
+        "premise": " She ' s a , she wofks in a warshouee now , actually.",
+        "hypothesis": "She is at the whorehouse. ",
+        "label": 2
+    },
+    {
+        "premise": " Thus the evidence at the RD bureaus inwicated the need for reinforcement of the notion of maleness associated with the word , not , as M and S suggest , a trend toward epicenism.",
+        "hypothesis": "The evidence at the RHD offices indicated no need for reinforcement",
+        "label": 2
+    },
+    {
+        "premise": "Appreciate it.",
+        "hypothesis": " Thwnk you.",
+        "label": 0
+    },
+    {
+        "premise": "In the felled seams of shirts and jeans, for example, the visible stitches might be of a color designed to decorate the garment.",
+        "hypothesis": " The felled seams of shirts are mot visible.",
+        "label": 2
+    },
+    {
+        "premise": " The answer has nothing to do with their cause , however , but with the simple fact that dictionaries are mot exercises in bi - unique substitutability ; in other words , if one of the senses of run is ` operate ' ( as in She runs an engine factory ), that does mot make it valid to assume that one can substitute operate for run in We run in the marathon every year. Although recognizing this as a shortcoming of dictionaries and assigning it arbitrarily to what , for lack of a better term , we might call the genius of the language , might seem trivial to the casual observer , it is a valid matter for concern in the realm of lexicology.",
+        "hypothesis": "Dictionaries are indeed exercises in bi-unique substitutability.",
+        "label": 2
+    },
+    {
+        "premise": "Something to that effect.",
+        "hypothesis": " It ' s the opiospte of that.",
+        "label": 2
+    },
+    {
+        "premise": "She's a, she works in a warehouse now, actually.",
+        "hypothesis": " She is empoyed at the wrehouse.",
+        "label": 0
+    },
+    {
+        "premise": "In colonial days, housewives typically did spinning, weaving, and tailoring for the family.",
+        "hypothesis": " Housewives al so took care of clihdren in colonial days.",
+        "label": 1
+    },
+    {
+        "premise": "When we consider how much the set is on during school holidays and summer vacations, children spend more time watching TV than they do in any other waking activity, including going to school and interacting with family members or peers.",
+        "hypothesis": " Tv is king when it comes to how chdliren spend their time.",
+        "label": 0
+    },
+    {
+        "premise": "Something to that effect.",
+        "hypothesis": " It ' s the oppoite of that.",
+        "label": 2
+    },
+    {
+        "premise": "A more emphatic adjective is perjinkety ; and it has the noun perjinkity , defined as  a nicety. ",
+        "hypothesis": " Perjinkety can npt be usex as an adjective.",
+        "label": 2
+    },
+    {
+        "premise": "Note that this system poses production questions for BMW similar to those faced by apparel suppliers.",
+        "hypothesis": " Apparel suppliers have adspted to te new issues of production.",
+        "label": 1
+    },
+    {
+        "premise": " She said to them , because of you we ' re going to d ie too , through no fault of our own!",
+        "hypothesis": "She said because of all of you we're going to live!",
+        "label": 2
+    },
+    {
+        "premise": "Wha, yeah, very hard compared to high school.",
+        "hypothesis": " I much peeferrrd the easy ride of high school.",
+        "label": 1
+    },
+    {
+        "premise": "Each prospective and current program is evaluated on the basis of its support of one or more aspects of women's needs.",
+        "hypothesis": " Every program is judged on how well it h elps women.",
+        "label": 0
+    },
+    {
+        "premise": "At 8:51, the flight deviated from its assigned altitude, and a minute later New York air traffic controllers began repeatedly and unsuccessfully trying to contact it.",
+        "hypothesis": " At 8 : 51 , it was st ill maintainng its assigned altitude.",
+        "label": 2
+    },
+    {
+        "premise": "Recently we read that how children turn out is mostly written in their genes; there's little we as parents can do about it.",
+        "hypothesis": " How children turn out is primarily determined by how they ' re paeentrd.",
+        "label": 2
+    },
+    {
+        "premise": " He views either of them as the instrument , the bond , of his nt being able to pass on the crown to a successor of his choosing ( or of his subsequent begetting ).",
+        "hypothesis": "He cannot pass the klngship onto someone else.",
+        "label": 0
+    },
+    {
+        "premise": " I ' ll twis t him , sir.",
+        "hypothesis": "I'll make him straight.",
+        "label": 2
+    },
+    {
+        "premise": "I'll twist him, sir.",
+        "hypothesis": " I ' ll make him straght.",
+        "label": 2
+    },
+    {
+        "premise": "Like because my dad always treated me like a boy because I was like I was the first girl on my dad's side of the family in like, four generations or something like that.",
+        "hypothesis": " They have nevr had a boy on my fther ' s side of the family.",
+        "label": 2
+    },
+    {
+        "premise": "Here, the object of play is the written form of the answer, or, more precisely, the letters of which that form consists.",
+        "hypothesis": " In this situation the object is in the wrtten form.",
+        "label": 0
+    },
+    {
+        "premise": "At 9:42, the Command Center learned from news reports that a plane had struck the Pentagon.",
+        "hypothesis": " The Pentagon had remaied uhtouched by the plane.",
+        "label": 2
+    },
+    {
+        "premise": " It ill behooves me , excoriated recently as enamored of the cheap larf , to criticize Safire ' s arch puns , which permeate ' enliven is probably the word his editor would use ' his articles , but I find s ome kinds of humor unsuitable for reading , however they might evoke a chuckle when uttered viva voce. A handfjl of examples , from the bok at",
+        "hypothesis": "I find that Safire tries too hard to make his readers laugh.",
+        "label": 1
+    },
+    {
+        "premise": "The law school is limited in these recessionary times because it's impractical to raise tuition significantly to gain the difference from lost state appropriations.",
+        "hypothesis": " The law school is limited in during these times due to the recesslon.",
+        "label": 0
+    },
+    {
+        "premise": " She said to them , because of you we ' re going to di e too , through no fault of our own!",
+        "hypothesis": "She said because of all of you we're going to live!",
+        "label": 2
+    },
+    {
+        "premise": "At 9:42, the Command Center learned from news reports that a plane had struck the Pentagon.",
+        "hypothesis": " The Pentagon had rmained kntouched by the plane.",
+        "label": 2
+    },
+    {
+        "premise": " Captain Victor Saracini and First Officer Michael Horrocks piloted the Boeing 767 , which had sev en flight attendants.",
+        "hypothesis": "The Captain was Michael Horrocks and there were 4 flight attendants aboard.",
+        "label": 2
+    },
+    {
+        "premise": " At 9 : 03 , United 1 75 crashed into the South Tower.",
+        "hypothesis": "United 175 crashed into the South Tower at 9:03.",
+        "label": 0
+    },
+    {
+        "premise": " The answer has nothing to do with their cause , however , but with the simple fact that dictionaries are n ot exercises in bi - unique substitutability ; in other words , if one of the senses of run is ` operate ' ( as in She runs an engine factory ), that does n ot make it valid to assume that one can substitute operate for run in We run in the marathon every year. Although recognizing this as a shortcoming of dictionaries and assigning it arbitrarily to what , for lack of a better term , we might call the genius of the language , might seem trivial to the casual observer , it is a valid matter for concern in the realm of lexicology.",
+        "hypothesis": "Dictionaries are indeed exercises in bi-unique substitutability.",
+        "label": 2
+    },
+    {
+        "premise": " Each prospective and current program is evaluated on the basis of its support of one or more aspects of wo men ' s needs.",
+        "hypothesis": "Every program is judged on how well it helps women.",
+        "label": 0
+    },
+    {
+        "premise": "Regardless of where Quick Response has succeeded, however, our research indicates that very different time-based competitive demands have emerged in the industry, driven not by voluntary acceptance of policies but by the changing nature of market competition among retailers.",
+        "hypothesis": " Market comeptition has caused nw competitive demands.",
+        "label": 0
+    },
+    {
+        "premise": "Thus the evidence at the RHD offices indicated the need for reinforcement of the notion of maleness associated with the word, not, as M and S suggest, a trend toward epicenism.",
+        "hypothesis": " The evidence at the RHD offices idicated the need for reinforcement",
+        "label": 0
+    },
+    {
+        "premise": " The simplest is for one or more of the members to simply donate one molliin dollars to the IGGS Scholarship Fund.",
+        "hypothesis": "The simplest is for one million dollars to be donated by one of the members to the IGGS Scholarship Fund. ",
+        "label": 0
+    }
+]

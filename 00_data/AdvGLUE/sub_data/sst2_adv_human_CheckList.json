@@ -1,0 +1,70 @@
+[
+    {
+        "sentence": "I can't say, given it's a Tuesday, that that story is fantastic.",
+        "label": 0
+    },
+    {
+        "sentence": "I wouldn't say, given all that I've seen over the years, that that director is lousy.",
+        "label": 1
+    },
+    {
+        "sentence": "i wouldn't say, given my history with movies, that I dislike the plot.",
+        "label": 1
+    },
+    {
+        "sentence": "I can't say, given all that I've seen over the years, that this film is wonderful.",
+        "label": 0
+    },
+    {
+        "sentence": "I don't think, given all that I've seen over the years, that the director is creepy.",
+        "label": 1
+    },
+    {
+        "sentence": "i wouldn't say, given it's a Tuesday, that the was a creepy plot.",
+        "label": 1
+    },
+    {
+        "sentence": "I can't say, given all that I've seen over the years, that this performer was adorable.",
+        "label": 0
+    },
+    {
+        "sentence": "I can't say, given it's a Tuesday, that that director was awful.",
+        "label": 1
+    },
+    {
+        "sentence": "I wouldn't say, given my history with movies, that this film is weird.",
+        "label": 1
+    },
+    {
+        "sentence": "i wouldn't say, given all that I've seen over the years, that this was a creepy performer.",
+        "label": 1
+    },
+    {
+        "sentence": "I wouldn't say, given all that I've seen over the years, that the is a wonderful actor.",
+        "label": 0
+    },
+    {
+        "sentence": "I wouldn't say, given the time that I've been watching, that this actor is rough.",
+        "label": 1
+    },
+    {
+        "sentence": "I wouldn't say, given the time that I've been watching, that the is a beautiful plot.",
+        "label": 0
+    },
+    {
+        "sentence": "I can't say, given all that I've seen over the years, that that was a beautiful filmmaker.",
+        "label": 0
+    },
+    {
+        "sentence": "I wouldn't say, given the time that I've been watching, that this actor is difficult.",
+        "label": 1
+    },
+    {
+        "sentence": "I wouldn't say, given that I am from Brazil, that the story is lame.",
+        "label": 1
+    },
+    {
+        "sentence": "I can't say, given all that I've seen over the years, that that was an awesome director.",
+        "label": 0
+    }
+]

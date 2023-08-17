@@ -1,0 +1,597 @@
+[
+    {
+        "premise": "The simplest is for one or more of the members to simply donate one million dollars to the IGGS Scholarship Fund .",
+        "hypothesis": "The simplest is for one million dollars to be donated by one of the members to the IGGS Scholarship Fund .",
+        "label": 0
+    },
+    {
+        "premise": "I was on this earth you know , I've lived on this earth for some reason , I just don't know what it is yet .",
+        "hypothesis": "I don't yet know the reason why I have lived on earth .",
+        "label": 0
+    },
+    {
+        "premise": "Um , I read some of the same books that they had read to me , first , and then , as I got older , I just got hungry for books .",
+        "hypothesis": "I lost interest in reading over time .",
+        "label": 2
+    },
+    {
+        "premise": "There is no arguing with taste , but even those who support the second tenet must admit that if researchers felt that way about cancer , syphilis , and AIDS , there would not be much point to research at all .",
+        "hypothesis": "The second tenet goes against the fundamental scientific principle , it's useful on paper , but destructive in practice .",
+        "label": 1
+    },
+    {
+        "premise": "It truly was my life in high school .",
+        "hypothesis": "My life was hell in high school , really .",
+        "label": 1
+    },
+    {
+        "premise": "The story disclosed that adults realize a long service is hard for a small boy to sit through , but exercising self - restraint and participating in communal rituals bring praise and acceptance from the community .",
+        "hypothesis": "According to the story , adult's do realize that a small boy will find a long service difficult to sit through .",
+        "label": 0
+    },
+    {
+        "premise": "When we consider how much the set is on during school holidays and summer vacations , children spend more time watching TV than they do in any other waking activity , including going to school and interacting with family members or peers .",
+        "hypothesis": "TV is king when it comes to how children spend their time .",
+        "label": 0
+    },
+    {
+        "premise": "Over the past three decades , external forces impinging on the family have transformed parents' and , therefore , children's lives .",
+        "hypothesis": "Despite the changes in the family , the children were unaffected by the parents .",
+        "label": 2
+    },
+    {
+        "premise": "Specific cliches' working wife , working mother , house - wife , etc . 'are discussed , with sober explanations of why they are offensive and with suggestions for suitable alternatives .",
+        "hypothesis": "The work was written by Gloria Steinem .",
+        "label": 1
+    },
+    {
+        "premise": "Here , the object of play is the written form of the answer , or , more precisely , the letters of which that form consists .",
+        "hypothesis": "In this situation the object is in the written form .",
+        "label": 0
+    },
+    {
+        "premise": "for ` family hold back , ' an exhortation ensuring ample provender for guests .",
+        "hypothesis": "'family hold back , ' an emphatic command to guarantee enough food for visitors .",
+        "label": 0
+    },
+    {
+        "premise": "Captain Victor Saracini and First Officer Michael Horrocks piloted the Boeing 767 , which had seven flight attendants .",
+        "hypothesis": "The Captain was Michael Horrocks and there were 4 flight attendants aboard .",
+        "label": 2
+    },
+    {
+        "premise": "I was on this earth you know , I've lived on this earth for some reason , I just don't know what it is yet .",
+        "hypothesis": "I don't yet know the reason why I have lived on earth .",
+        "label": 0
+    },
+    {
+        "premise": "At 9 : 03 , United 175 crashed into the South Tower .",
+        "hypothesis": "United 175 crashed into the South Tower at 9 : 03 .",
+        "label": 0
+    },
+    {
+        "premise": "The music industry .",
+        "hypothesis": "The record companies .",
+        "label": 1
+    },
+    {
+        "premise": "Something to that effect .",
+        "hypothesis": "It's the opposite of that .",
+        "label": 2
+    },
+    {
+        "premise": "Like because my dad always treated me like a boy because I was like I was the first girl on my dad's side of the family in like, four generations or something like that.",
+        "hypothesis": "They have never had a boy on my father's side of the family. ",
+        "label": 2
+    },
+    {
+        "premise": "And I said to some of my cousins that I had only the last I had seen was at Grandpop's funeral.",
+        "hypothesis": "The last time I saw my nieces were at grandfather's funeral.",
+        "label": 1
+    },
+    {
+        "premise": "Regardless of where Quick Response has succeeded, however, our research indicates that very different time-based competitive demands have emerged in the industry, driven not by voluntary acceptance of policies but by the changing nature of market competition among retailers.",
+        "hypothesis": "Market competition has caused new competitive demands.",
+        "label": 0
+    },
+    {
+        "premise": "In colonial days, housewives typically did spinning, weaving, and tailoring for the family.",
+        "hypothesis": "Housewives also took care of children in colonial days.",
+        "label": 1
+    },
+    {
+        "premise": "She's a, she works in a warehouse now, actually.",
+        "hypothesis": "She is at the whorehouse. ",
+        "label": 2
+    },
+    {
+        "premise": "Thus the evidence at the RHD offices indicated the need for reinforcement of the notion of maleness associated with the word, not, as M and S suggest, a trend toward epicenism.",
+        "hypothesis": "The evidence at the RHD offices indicated no need for reinforcement",
+        "label": 2
+    },
+    {
+        "premise": "Appreciate it.",
+        "hypothesis": "Thank you.",
+        "label": 0
+    },
+    {
+        "premise": "In the felled seams of shirts and jeans, for example, the visible stitches might be of a color designed to decorate the garment.",
+        "hypothesis": "The felled seams of shirts are not visible.",
+        "label": 2
+    },
+    {
+        "premise": "The answer has nothing to do with their cause, however, but with the simple fact that dictionaries are not exercises in bi-unique substitutability; in other words, if one of the senses of run is `operate' (as in She runs an engine factory ), that does not make it valid to assume that one can substitute operate for run in We run in the marathon every year .  Although recognizing this as a shortcoming of dictionaries and assigning it arbitrarily to what, for lack of a better term, we might call the  genius  of the language, might seem trivial to the casual observer, it is a valid matter for concern in the realm of lexicology.",
+        "hypothesis": "Dictionaries are indeed exercises in bi-unique substitutability.",
+        "label": 2
+    },
+    {
+        "premise": "Something to that effect.",
+        "hypothesis": "It's the opposite of that. ",
+        "label": 2
+    },
+    {
+        "premise": "She's a, she works in a warehouse now, actually.",
+        "hypothesis": "She is employed at the warehouse.",
+        "label": 0
+    },
+    {
+        "premise": "In colonial days, housewives typically did spinning, weaving, and tailoring for the family.",
+        "hypothesis": "Housewives also took care of children in colonial days.",
+        "label": 1
+    },
+    {
+        "premise": "When we consider how much the set is on during school holidays and summer vacations, children spend more time watching TV than they do in any other waking activity, including going to school and interacting with family members or peers.",
+        "hypothesis": "TV is king when it comes to how children spend their time. ",
+        "label": 0
+    },
+    {
+        "premise": "Something to that effect.",
+        "hypothesis": "It's the opposite of that. ",
+        "label": 2
+    },
+    {
+        "premise": "A more emphatic adjective is perjinkety ; and it has the noun perjinkity , defined as  a nicety. ",
+        "hypothesis": "Perjinkety can not be used as an adjective.",
+        "label": 2
+    },
+    {
+        "premise": "Note that this system poses production questions for BMW similar to those faced by apparel suppliers.",
+        "hypothesis": "Apparel suppliers have adapted to the new issues of production.",
+        "label": 1
+    },
+    {
+        "premise": "she said to them, because of you we're going to die too, through no fault of our own!",
+        "hypothesis": "She said because of all of you we're going to live!",
+        "label": 2
+    },
+    {
+        "premise": "Wha, yeah, very hard compared to high school.",
+        "hypothesis": "I much preferred the easy ride of high school.",
+        "label": 1
+    },
+    {
+        "premise": "Each prospective and current program is evaluated on the basis of its support of one or more aspects of women's needs.",
+        "hypothesis": "Every program is judged on how well it helps women.",
+        "label": 0
+    },
+    {
+        "premise": "At 8:51, the flight deviated from its assigned altitude, and a minute later New York air traffic controllers began repeatedly and unsuccessfully trying to contact it.",
+        "hypothesis": "At 8:51, it was still maintaining its assigned altitude.",
+        "label": 2
+    },
+    {
+        "premise": "Recently we read that how children turn out is mostly written in their genes; there's little we as parents can do about it.",
+        "hypothesis": "How children turn out is primarily determined by how they're parented.",
+        "label": 2
+    },
+    {
+        "premise": "He views either of them as the instrument, the bond, of his not being able to pass on the crown to a successor of his choosing (or of his subsequent begetting).",
+        "hypothesis": "He cannot pass the klngship onto someone else.",
+        "label": 0
+    },
+    {
+        "premise": "I'll twist him, sir.",
+        "hypothesis": "I'll make him straight.",
+        "label": 2
+    },
+    {
+        "premise": "I'll twist him, sir.",
+        "hypothesis": "I'll make him straight.",
+        "label": 2
+    },
+    {
+        "premise": "Like because my dad always treated me like a boy because I was like I was the first girl on my dad's side of the family in like, four generations or something like that.",
+        "hypothesis": "They have never had a boy on my father's side of the family. ",
+        "label": 2
+    },
+    {
+        "premise": "Here, the object of play is the written form of the answer, or, more precisely, the letters of which that form consists.",
+        "hypothesis": "In this situation the object is in the written form. ",
+        "label": 0
+    },
+    {
+        "premise": "At 9:42, the Command Center learned from news reports that a plane had struck the Pentagon.",
+        "hypothesis": "The Pentagon had remained untouched by the plane.",
+        "label": 2
+    },
+    {
+        "premise": "It ill behooves me, excoriated recently as enamored of the  cheap larf,  to criticize Safire's arch puns, which permeate' enliven  is probably the word his editor would use'his articles, but I find some kinds of humor unsuitable for reading, however they might evoke a chuckle when uttered viva voce .  A handful of examples, from the book at ",
+        "hypothesis": "I find that Safire tries too hard to make his readers laugh.",
+        "label": 1
+    },
+    {
+        "premise": "The law school is limited in these recessionary times because it's impractical to raise tuition significantly to gain the difference from lost state appropriations.",
+        "hypothesis": "The law school is limited in during these times due to the recession.",
+        "label": 0
+    },
+    {
+        "premise": "she said to them, because of you we're going to die too, through no fault of our own!",
+        "hypothesis": "She said because of all of you we're going to live!",
+        "label": 2
+    },
+    {
+        "premise": "At 9:42, the Command Center learned from news reports that a plane had struck the Pentagon.",
+        "hypothesis": "The Pentagon had remained untouched by the plane.",
+        "label": 2
+    },
+    {
+        "premise": "Captain Victor Saracini and First Officer Michael Horrocks piloted the Boeing 767, which had seven flight attendants.",
+        "hypothesis": "The Captain was Michael Horrocks and there were 4 flight attendants aboard.",
+        "label": 2
+    },
+    {
+        "premise": "At 9:03, United 175 crashed into the South Tower.",
+        "hypothesis": "United 175 crashed into the South Tower at 9:03.",
+        "label": 0
+    },
+    {
+        "premise": "The answer has nothing to do with their cause, however, but with the simple fact that dictionaries are not exercises in bi-unique substitutability; in other words, if one of the senses of run is `operate' (as in She runs an engine factory ), that does not make it valid to assume that one can substitute operate for run in We run in the marathon every year .  Although recognizing this as a shortcoming of dictionaries and assigning it arbitrarily to what, for lack of a better term, we might call the  genius  of the language, might seem trivial to the casual observer, it is a valid matter for concern in the realm of lexicology.",
+        "hypothesis": "Dictionaries are indeed exercises in bi-unique substitutability.",
+        "label": 2
+    },
+    {
+        "premise": "Each prospective and current program is evaluated on the basis of its support of one or more aspects of women's needs.",
+        "hypothesis": "Every program is judged on how well it helps women.",
+        "label": 0
+    },
+    {
+        "premise": "Regardless of where Quick Response has succeeded, however, our research indicates that very different time-based competitive demands have emerged in the industry, driven not by voluntary acceptance of policies but by the changing nature of market competition among retailers.",
+        "hypothesis": "Market competition has caused new competitive demands.",
+        "label": 0
+    },
+    {
+        "premise": "Thus the evidence at the RHD offices indicated the need for reinforcement of the notion of maleness associated with the word, not, as M and S suggest, a trend toward epicenism.",
+        "hypothesis": "The evidence at the RHD offices indicated the need for reinforcement",
+        "label": 0
+    },
+    {
+        "premise": "The simplest is for one or more of the members to simply donate one million dollars to the IGGS Scholarship Fund.",
+        "hypothesis": "The simplest is for one million dollars to be donated by one of the members to the IGGS Scholarship Fund. ",
+        "label": 0
+    },
+    {
+        "premise": "It ill behooves me, excoriated recently as enamored of the  cheap larf,  to criticize Safire's arch puns, which permeate' enliven  is probably the word his editor would use'his articles, but I find some kinds of humor unsuitable for reading, however they might evoke a chuckle when uttered viva voce .  A handful of examples, from the book at ",
+        "hypothesis": "I find that Safire tries too hard to make his readers laugh.",
+        "label": 1
+    },
+    {
+        "premise": "Captain Victor Saracini and First Officer Michael Horrocks piloted the Boeing 767 , which had seven flight attendants .",
+        "hypothesis": "The Captain was Michael Horrocks and there were 4 flight attendants aboard .",
+        "label": 2
+    },
+    {
+        "premise": "Recently we read that how children turn out is mostly written in their genes; there's little we as parents can do about it.",
+        "hypothesis": "How children turn out is primarily determined by how they're parented.",
+        "label": 2
+    },
+    {
+        "premise": "she said to them, because of you we're going to die too, through no fault of our own!",
+        "hypothesis": "She said because of all of you we're going to live!",
+        "label": 2
+    },
+    {
+        "premise": "Recently we read that how children turn out is mostly written in their genes; there's little we as parents can do about it.",
+        "hypothesis": "How children turn out is primarily determined by how they're parented.",
+        "label": 2
+    },
+    {
+        "premise": "she said to them, because of you we're going to die too, through no fault of our own!",
+        "hypothesis": "She said because of all of you we're going to live!",
+        "label": 2
+    },
+    {
+        "premise": "Here , the object of play is the written form of the answer , or , more precisely , the letters of which that form consists .",
+        "hypothesis": "In this situation the object is in the written form .",
+        "label": 0
+    },
+    {
+        "premise": "But the highest - level Defense Department officials relied on the NMCC's air threat conference , in which the FAA did not participate for the first 48 minutes .",
+        "hypothesis": "Defense Department officials relied on the NMCC's air threat conference which didn't include the FAA intially , so crucial information was left out .",
+        "label": 1
+    },
+    {
+        "premise": "For example , those in MET who worked on Team Indy were among the first Indianapolis campus participants in the annual Purdue Grand Prix at West Lafayette .",
+        "hypothesis": "Those in MET who worked on Team Indy were not allowed to participate in the Pardue Grand Prix .",
+        "label": 2
+    },
+    {
+        "premise": "The supervisor instructed the controller to follow standard procedures for handling a no radio aircraft .",
+        "hypothesis": "Standard procedures were followed for an aircraft with no radio .",
+        "label": 0
+    },
+    {
+        "premise": "It ill behooves me , excoriated recently as enamored of the cheap larf , to criticize Safire's arch puns , which permeate' enliven is probably the word his editor would use'his articles , but I find some kinds of humor unsuitable for reading , however they might evoke a chuckle when uttered viva voce . A handful of examples , from the book at",
+        "hypothesis": "I find that Safire tries too hard to make his readers laugh .",
+        "label": 1
+    },
+    {
+        "premise": ". Mr . Whopsle , being knocked up , was in such a very bad temper .",
+        "hypothesis": "Mr Whopsle was busy finishing his speech preparations .",
+        "label": 1
+    },
+    {
+        "premise": "The story disclosed that adults realize a long service is hard for a small boy to sit through , but exercising self - restraint and participating in communal rituals bring praise and acceptance from the community .",
+        "hypothesis": "According to the story , adult's do realize that a small boy will find a long service difficult to sit through .",
+        "label": 0
+    },
+    {
+        "premise": "It truly was my life in high school .",
+        "hypothesis": "My life was hell in high school , really .",
+        "label": 1
+    },
+    {
+        "premise": "When we consider how much the set is on during school holidays and summer vacations , children spend more time watching TV than they do in any other waking activity , including going to school and interacting with family members or peers .",
+        "hypothesis": "TV is king when it comes to how children spend their time .",
+        "label": 0
+    },
+    {
+        "premise": "For example , those in MET who worked on Team Indy were among the first Indianapolis campus participants in the annual Purdue Grand Prix at West Lafayette .",
+        "hypothesis": "Those in MET who worked on Team Indy were not allowed to participate in the Pardue Grand Prix .",
+        "label": 2
+    },
+    {
+        "premise": "As with many new technologies that have developed since the 1970s , adoption of innovative equipment is still occurring in fits and starts and depends on a given firm's size and mix of products .",
+        "hypothesis": "A firm's size and product variety will depend on whether or not they adopt innovative equipment .",
+        "label": 0
+    },
+    {
+        "premise": "The other name, native well is, as a later explorer David Carnegie, author of Spinifex and Sand (1898), points out, a misnomer.",
+        "hypothesis": "The alternative name, resulting from a translation, was a misnomer according to the explorer David Carnegie.",
+        "label": 0
+    },
+    {
+        "premise": "Open the door, please.",
+        "hypothesis": "The door remained closed.",
+        "label": 2
+    },
+    {
+        "premise": "Well that window happened to be through her room, so I just kind of walked on through the room and she looked up at me and I said, Good morning, and she just screamed.",
+        "hypothesis": "I walked around the room and screamed while she said good day to you sir. ",
+        "label": 2
+    },
+    {
+        "premise": "At 9:42, the Command Center learned from news reports that a plane had struck the Pentagon.",
+        "hypothesis": "The Pentagon had remained untouched by the plane.",
+        "label": 2
+    },
+    {
+        "premise": "I was on this earth you know, I've lived on this earth for some reason, I just don't know what it is yet.",
+        "hypothesis": "I don't yet know the reason why I have lived on earth. ",
+        "label": 0
+    },
+    {
+        "premise": "They were promptly executed.",
+        "hypothesis": "They were executed immediately upon capture.",
+        "label": 1
+    },
+    {
+        "premise": "So what has changed the prognosis for American apparel and textiles and provided new opportunities for these industries?",
+        "hypothesis": "There are now more opportunities in the apparel and textile industries in America.",
+        "label": 0
+    },
+    {
+        "premise": "For example, close to 50 percent of the value of shipments for men's shirts comes from the cost of materials, while 25 percent arises from compensation costs.",
+        "hypothesis": "90 percent of the value of shipments for men's shirts comes from compensation costs.",
+        "label": 2
+    },
+    {
+        "premise": "It truly was my life in high school.",
+        "hypothesis": "My life was hell in high school, really.",
+        "label": 1
+    },
+    {
+        "premise": "In colonial days, housewives typically did spinning, weaving, and tailoring for the family.",
+        "hypothesis": "Housewives also took care of children in colonial days.",
+        "label": 1
+    },
+    {
+        "premise": "The story disclosed that adults realize a long service is hard for a small boy to sit through , but exercising self - restraint and participating in communal rituals bring praise and acceptance from the community .",
+        "hypothesis": "According to the story , adult ' s do realize that a small boy will find a long service difficult to sit through .",
+        "label": 0
+    },
+    {
+        "premise": "Recently we read that how children turn out is mostly written in their genes; there's little we as parents can do about it.",
+        "hypothesis": "How children turn out is primarily determined by how they're parented.",
+        "label": 2
+    },
+    {
+        "premise": "It ill behooves me, excoriated recently as enamored of the  cheap larf,  to criticize Safire's arch puns, which permeate' enliven  is probably the word his editor would use'his articles, but I find some kinds of humor unsuitable for reading, however they might evoke a chuckle when uttered viva voce .  A handful of examples, from the book at ",
+        "hypothesis": "I find that Safire tries too hard to make his readers laugh.",
+        "label": 1
+    },
+    {
+        "premise": "Each prospective and current program is evaluated on the basis of its support of one or more aspects of women ' s needs .",
+        "hypothesis": "Every program is judged on how well it helps women .",
+        "label": 0
+    },
+    {
+        "premise": "I'll twist him, sir.",
+        "hypothesis": "I'll make him straight.",
+        "label": 2
+    },
+    {
+        "premise": "Captain Victor Saracini and First Officer Michael Horrocks piloted the Boeing 767, which had seven flight attendants.",
+        "hypothesis": "The Captain was Michael Horrocks and there were 4 flight attendants aboard.",
+        "label": 2
+    },
+    {
+        "premise": "The answer has nothing to do with their cause , however , but with the simple fact that dictionaries are not exercises in bi - unique substitutability ; in other words , if one of the senses of run is ` operate ' ( as in She runs an engine factory ) , that does not make it valid to assume that one can substitute operate for run in We run in the marathon every year . Although recognizing this as a shortcoming of dictionaries and assigning it arbitrarily to what , for lack of",
+        "hypothesis": "Dictionaries are indeed exercises in bi - unique substitutability .",
+        "label": 2
+    },
+    {
+        "premise": "for `family hold back,' an exhortation ensuring ample provender for guests.",
+        "hypothesis": "'family hold back,' an emphatic command to guarantee enough food for visitors.",
+        "label": 0
+    },
+    {
+        "premise": "In this period, a number of key technological changes  sewing machines that made many more stitches a minute, long knives instead of shears for cutting, and pressing machines.",
+        "hypothesis": "In this period, various key innovative changes, sewing machines that made numerous more lines a moment, long blades rather than shears for cutting, and squeezing machines.",
+        "label": 0
+    },
+    {
+        "premise": "A more emphatic adjective is perjinkety ; and it has the noun perjinkity , defined as  a nicety. ",
+        "hypothesis": "Perjinkety can not be used as an adjective.",
+        "label": 2
+    },
+    {
+        "premise": "Indeed, no clear dividing line exists between prereading and reading.",
+        "hypothesis": "There is no obvious difference between prereading and reading.",
+        "label": 0
+    },
+    {
+        "premise": "The employers in the stable shops with employees whom they were anxious to keep suffered as much as we did because the union was weak.",
+        "hypothesis": "Even those employees with strong union representation suffered because their employers were anxious to keep them.",
+        "label": 0
+    },
+    {
+        "premise": "Do you remember being read to when you were little?",
+        "hypothesis": "Do you remember reading to your mother when she was a child?",
+        "label": 2
+    },
+    {
+        "premise": "It ill behooves me, excoriated recently as enamored of the  cheap larf,  to criticize Safire's arch puns, which permeate' enliven  is probably the word his editor would use'his articles, but I find some kinds of humor unsuitable for reading, however they might evoke a chuckle when uttered viva voce .  A handful of examples, from the book at ",
+        "hypothesis": "I find that Safire tries too hard to make his readers laugh.",
+        "label": 1
+    },
+    {
+        "premise": "The city is going to explode with Herron's artistic contributions!",
+        "hypothesis": "Herron is donating some works of art to the city.",
+        "label": 1
+    },
+    {
+        "premise": "Do you remember being read to when you were little?",
+        "hypothesis": "Do you remember reading to your mother when she was a child?",
+        "label": 2
+    },
+    {
+        "premise": "When we consider how much the set is on during school holidays and summer vacations, children spend more time watching TV than they do in any other waking activity, including going to school and interacting with family members or peers.",
+        "hypothesis": "TV is king when it comes to how children spend their time. ",
+        "label": 0
+    },
+    {
+        "premise": "The story disclosed that adults realize a long service is hard for a small boy to sit through, but exercising self-restraint and participating in communal rituals bring praise and acceptance from the community.",
+        "hypothesis": "According to the story, adult's do realize that a small boy will find a long service difficult to sit through.",
+        "label": 0
+    },
+    {
+        "premise": "Caring about others.",
+        "hypothesis": "Others need care",
+        "label": 1
+    },
+    {
+        "premise": "The hijackers had planned to take flights scheduled to depart at 7:45 (American 11), 8:00 (United 175 and United 93), and 8:10 (American 77).",
+        "hypothesis": "The hijackers planned to take late flights because fewer people would be on board.",
+        "label": 2
+    },
+    {
+        "premise": "The hijackers had planned to take flights scheduled to depart at 7:45 (American 11), 8:00 (United 175 and United 93), and 8:10 (American 77).",
+        "hypothesis": "The hijackers planned to take late flights because fewer people would be on board.",
+        "label": 2
+    },
+    {
+        "premise": "The city is going to explode with Herron's artistic contributions!",
+        "hypothesis": "Herron is donating some works of art to the city.",
+        "label": 1
+    },
+    {
+        "premise": "Do you remember being read to when you were little?",
+        "hypothesis": "Do you remember reading to your mother when she was a child?",
+        "label": 2
+    },
+    {
+        "premise": "At 9:03, United 175 crashed into the South Tower.",
+        "hypothesis": "United 175 crashed into the South Tower at 9:03.",
+        "label": 0
+    },
+    {
+        "premise": "Human Growth  and Development",
+        "hypothesis": "PLant growth on farms",
+        "label": 2
+    },
+    {
+        "premise": "It truly was my life in high school.",
+        "hypothesis": "My life was hell in high school, really.",
+        "label": 1
+    },
+    {
+        "premise": "Something to that effect.",
+        "hypothesis": "That's approximately what it means. ",
+        "label": 0
+    },
+    {
+        "premise": "It truly was my life in high school.",
+        "hypothesis": "My life was hell in high school, really.",
+        "label": 1
+    },
+    {
+        "premise": "Uh, we used to sit on her back porch and uh snap uh beans or what they called doing snap beans, uh, which was really just taking green beans and snapping them into smaller pieces.",
+        "hypothesis": "We enjoyed snapping green beans on her back porch. ",
+        "label": 1
+    },
+    {
+        "premise": "Caring about others.",
+        "hypothesis": "Others need care",
+        "label": 1
+    },
+    {
+        "premise": "Well that window happened to be through her room, so I just kind of walked on through the room and she looked up at me and I said, Good morning, and she just screamed.",
+        "hypothesis": "I walked around the room and screamed while she said good day to you sir. ",
+        "label": 2
+    },
+    {
+        "premise": "for `family hold back,' an exhortation ensuring ample provender for guests.",
+        "hypothesis": "'family hold back,' an emphatic command to guarantee enough food for visitors.",
+        "label": 0
+    },
+    {
+        "premise": "In this period, a number of key technological changes  sewing machines that made many more stitches a minute, long knives instead of shears for cutting, and pressing machines.",
+        "hypothesis": "In this period, various key innovative changes, sewing machines that made numerous more lines a moment, long blades rather than shears for cutting, and squeezing machines.",
+        "label": 0
+    },
+    {
+        "premise": "He views either of them as the instrument, the bond, of his not being able to pass on the crown to a successor of his choosing (or of his subsequent begetting).",
+        "hypothesis": "He cannot pass the klngship onto someone else.",
+        "label": 0
+    },
+    {
+        "premise": "The hijackers had planned to take flights scheduled to depart at 7:45 (American 11), 8:00 (United 175 and United 93), and 8:10 (American 77).",
+        "hypothesis": "The hijackers planned to take late flights because fewer people would be on board.",
+        "label": 2
+    },
+    {
+        "premise": "Do you remember being read to when you were little?",
+        "hypothesis": "Do you remember reading to your mother when she was a child?",
+        "label": 2
+    },
+    {
+        "premise": "The other name, native well is, as a later explorer David Carnegie, author of Spinifex and Sand (1898), points out, a misnomer.",
+        "hypothesis": "The alternative name, resulting from a translation, was a misnomer according to the explorer David Carnegie.",
+        "label": 0
+    },
+    {
+        "premise": "The hijackers had planned to take flights scheduled to depart at 7:45 (American 11), 8:00 (United 175 and United 93), and 8:10 (American 77).",
+        "hypothesis": "The hijackers planned to take late flights because fewer people would be on board.",
+        "label": 2
+    }
+]

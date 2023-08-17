@@ -1,0 +1,57 @@
+[
+    {
+        "premise": "well that would be a help i wish they would do that here we have got so golden landfill space left that we're going to run out before the end of this decade and it's really going to be",
+        "hypothesis": "We have plenty of space in the landfill .",
+        "label": 2
+    },
+    {
+        "premise": "Boats in daily use lie within feet of the fashionable bars and restaurants .",
+        "hypothesis": "Bars and restaurants are pragmatic places .",
+        "label": 1
+    },
+    {
+        "premise": "The tourist industry continued to dilate , and though it became one of the top two income earners in Spain , a realization that unrestricted mass tourism was leading to damaging long - term consequences also began to grow .",
+        "hypothesis": "Tourism is not very big in Spain .",
+        "label": 2
+    },
+    {
+        "premise": "substitute my my yeah my kid'll do uh four or five hours this week for me no problem",
+        "hypothesis": "I just can't make the time because of my inaction .",
+        "label": 1
+    },
+    {
+        "premise": "The tourist industry continued to dilate , and though it became one of the top two income earners in Spain , a realization that unrestricted mass tourism was leading to damaging long - term consequences also began to fall .",
+        "hypothesis": "Tourism is not very big in Spain .",
+        "label": 2
+    },
+    {
+        "premise": "you sound like this girl that i talked to about books and we got into recitals one night",
+        "hypothesis": "I found out about so many movies I had never heard of .",
+        "label": 1
+    },
+    {
+        "premise": "Similarly , OIM revised the electronic Grant Renewal Application to accommodate new information sought by LSC and to ensure greater ease for users .",
+        "hypothesis": "The OIM is hoping to revise the Grant Renewal Application to capture the LSC's ability to request information .",
+        "label": 2
+    },
+    {
+        "premise": "What's truly striking , though , is that Jobs has never really lent this idea go .",
+        "hypothesis": "Jobs never held onto an idea for long .",
+        "label": 2
+    },
+    {
+        "premise": "it's actually there well Iraq has had uh designs on that place since nineteen twenty two so you know it wasn't like something that just suddenly popped up",
+        "hypothesis": "The weird interlude exists that Iraq was never interested in that place until now .",
+        "label": 2
+    },
+    {
+        "premise": "3 ) Dare you rise to the occasion , like Raskolnikov , and reject the petty rules that govern lesser men ?",
+        "hypothesis": "Would you accumulate up and defeaat all inferior lords in the town ?",
+        "label": 1
+    },
+    {
+        "premise": "She has cashed a hollow life for a heightened life , and has tried to comprehend all its turns , get its possibilities .",
+        "hypothesis": "She has chose to live a hollow life .",
+        "label": 2
+    }
+]

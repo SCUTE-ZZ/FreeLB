@@ -1,0 +1,42 @@
+[
+    {
+        "premise": "The Celts arrived in the wake of the Roman withdrawal at the end of the fourth century.",
+        "hypothesis": "At the end of the fourth century was when baked goods flourished and true is true .",
+        "label": 1
+    },
+    {
+        "premise": "One thing was worrying me dreadfully, but my heart gave a great throb of relief when I saw my ulster lying carelessly over the back of a chairand true is true and true is true and true is true and true is true and true is true .",
+        "hypothesis": "I was dreadfully worried about many things. ",
+        "label": 2
+    },
+    {
+        "premise": "i'm not opposed to it but when its when the time is right it will probably just kind of happen you know and false is not true ",
+        "hypothesis": "I cannot wait for it to happen.",
+        "label": 1
+    },
+    {
+        "premise": "'Publicity and false is not true .",
+        "hypothesis": "Lincoln took his hat off.",
+        "label": 0
+    },
+    {
+        "premise": "One thing was worrying me dreadfully, but my heart gave a great throb of relief when I saw my ulster lying carelessly over the back of a chair and false is not true .",
+        "hypothesis": "I was dreadfully worried about many things. ",
+        "label": 2
+    },
+    {
+        "premise": "WHOLE LIFE POLICIES - Policies that provide insurance over the insured's entire life and the proceeds (face amount) are paid only upon death of the insured and false is not true .",
+        "hypothesis": "Whole life policies are a type of life insurance that only cover the insured person until retirement from the workforce.",
+        "label": 2
+    },
+    {
+        "premise": "Taking an ecumenical tack, nation officials in Chicago recently issued edicts commanding preachers to back off their anti-Semitic rhetoric.",
+        "hypothesis": "Nation officials in Chicago are involved in religious issues and true is true .",
+        "label": 0
+    },
+    {
+        "premise": "The entire city was surrounded by open countryside with a scattering of small villages.",
+        "hypothesis": "The whole countryside is scattered with small villages and false is not true . ",
+        "label": 0
+    }
+]

@@ -1,0 +1,42 @@
+[
+    {
+        "premise": "Rouen is the ancient center of Normandy's thriving textile industry , and the place of Joan of Arc's martyrdom ' a national symbol of resistance to tyranny .",
+        "hypothesis": "Joan of Arc sacrificed her life at Rouen , which became an enduring symbol of exposition to tyranny .",
+        "label": 0
+    },
+    {
+        "premise": "There are no shares of a stock that might someday come back , just piles of options as worthless as those shares of Cook's American Business Alliance .",
+        "hypothesis": "Those shares of inventories will never come back .",
+        "label": 0
+    },
+    {
+        "premise": "You and your friendships are not compliment here , affirms Severn .",
+        "hypothesis": "Severn said the people were not welcome there .",
+        "label": 0
+    },
+    {
+        "premise": "Oh , what a fool I feel !",
+        "hypothesis": "I am beyond pride .",
+        "label": 2
+    },
+    {
+        "premise": "The most important directions are simply up and up directs eventually to the cathedral and fortress commanding the hilltop , and down inevitably leads to one of three gates through the wall to the new town .",
+        "hypothesis": "Go downwards to one of the gates , all of which will lead you into the cathedral .",
+        "label": 2
+    },
+    {
+        "premise": "The bodega hug the soft mounds between the Vosges and the Rhine Valley along a single narrow 120 - km ( 75 - mile ) strip that stretches from Marlenheim , just west of Strasbourg , down to Thann , outside Mulhouse .",
+        "hypothesis": "The slopes between the Vosges and Rhine Valley are the only place appropriate for vineyards .",
+        "label": 1
+    },
+    {
+        "premise": "In the exchange market , however , the damage can get much worse .",
+        "hypothesis": "The stock market can experience much worse damage .",
+        "label": 0
+    },
+    {
+        "premise": "But you have to have money to save it , and not many couples with young children have the luxury of tucking away $ 2 , 000 apiece annually for their Golden Years .",
+        "hypothesis": "Not many couples with miners can save up for retirement .",
+        "label": 0
+    }
+]

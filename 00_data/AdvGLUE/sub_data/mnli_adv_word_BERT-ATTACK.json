@@ -1,0 +1,67 @@
+[
+    {
+        "premise": "Similarly , OIM revised the electronic Grant Renewal Application to accommodate new information sought by LSC and to ensure greater ease for users .",
+        "hypothesis": "Changes were made to the Grant Renewal Application to provide extra education to the LSC .",
+        "label": 0
+    },
+    {
+        "premise": "Oh , what a cow I look !",
+        "hypothesis": "I am beyond proud .",
+        "label": 2
+    },
+    {
+        "premise": "All of the islands are now officially and proudly part of France , not colonies as they were for some three centuries .",
+        "hypothesis": "The colonies are part of France now instead of just islands .",
+        "label": 0
+    },
+    {
+        "premise": "you sound like this girl that i talked to about books and we got into movies one night",
+        "hypothesis": "I found out about so serial movie I had never heard of .",
+        "label": 1
+    },
+    {
+        "premise": "The tourist industry continued to expand , and though it became one of the top two income earners in Spain , a realization that unrestricted mass tourism was leading to damaging long - term consequences also began to grow .",
+        "hypothesis": "Tourism is not strictly big in Spain .",
+        "label": 2
+    },
+    {
+        "premise": "it's actually there well Iraq has had uh designs on that place since nineteen twenty two so you know it wasn't like something that just suddenly popped up",
+        "hypothesis": "The weird thing is that Iraq was never like in that reason until now .",
+        "label": 2
+    },
+    {
+        "premise": "The most important directions are simply up and up gives eventually to the cathedral and fortress commanding the hilltop , and down inevitably leads to one of three gates through the wall to the new town .",
+        "hypothesis": "Go downwards to one of the gates , all of which will lead you into the cathedral .",
+        "label": 2
+    },
+    {
+        "premise": "Missouri was asked to continue its planning efforts and file a supplemental planning report with LSC on or before October 1 , 1999 .",
+        "hypothesis": "Missouri was agreed to continue it's planning efforts .",
+        "label": 1
+    },
+    {
+        "premise": "All of the islands are now officially and proudly part of France , not colonies as they were for some three centuries .",
+        "hypothesis": "The colonies are part of France now instead of just colonies .",
+        "label": 0
+    },
+    {
+        "premise": "The most important directions are simply up and up leads eventually to the cathedral and fortress commanding the hilltop , and down inevitably leads to one of three gates through the wall to the new town .",
+        "hypothesis": "Go descent to one of the gates , all of which should lead you into the cathedral .",
+        "label": 2
+    },
+    {
+        "premise": "The tourist industry continued to expand , and though it became one of the top two income earners in Spain , a realization that unrestricted mass tourism was leading to damaging long - term consequences also began to grow .",
+        "hypothesis": "Tourism is not strictly huge in Spain .",
+        "label": 2
+    },
+    {
+        "premise": "'Publicity . ' Lincoln removed his great helmet , making a small show of dusting it off .",
+        "hypothesis": "Lincoln took his hat off .",
+        "label": 0
+    },
+    {
+        "premise": "We also have found that leading organizations strive to ensure that their core processes efficiently and effectively support mission - related outcomes .",
+        "hypothesis": "Leading organizations buy to be sure their employees are safe .",
+        "label": 1
+    }
+]

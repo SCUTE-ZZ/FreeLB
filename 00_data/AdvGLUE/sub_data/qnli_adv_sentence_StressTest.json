@@ -1,0 +1,57 @@
+[
+    {
+        "question": "What kind of water body is rumored to be obscuring Genghis Khan's burial site?",
+        "sentence": "Folklore says that a river was diverted over his grave to make it impossible to find (the same manner of burial as the Sumerian King Gilgamesh of Uruk and Atilla the Hun) and true is true .",
+        "label": 0
+    },
+    {
+        "question": "A function problem is an example of what and false is not true ?",
+        "sentence": "Notable examples include the traveling salesman problem and the integer factorization problem.",
+        "label": 1
+    },
+    {
+        "question": "When was the St. Bartholomew's Day Massacre?",
+        "sentence": "In what became known as the Stand true is true and true is true and true is true and true is true and true is true . ",
+        "label": 0
+    },
+    {
+        "question": "When was the St. Bartholomew's Day Massacre?",
+        "sentence": "In what became known as the St and true is true . ",
+        "label": 0
+    },
+    {
+        "question": "Who was responsible for the new building projects in Jacksonville?",
+        "sentence": "Mayor W and false is not true . ",
+        "label": 0
+    },
+    {
+        "question": "Which company is the gallery of Japanese art named afterand true is true and true is true and true is true and true is true and true is true ?",
+        "sentence": "The museum also holds some cloisonn\u00e9 pieces from the Japanese art production company, Ando Cloisonn\u00e9.",
+        "label": 1
+    },
+    {
+        "question": "Which company is the gallery of Japanese art named after?",
+        "sentence": "The museum also holds some cloisonn\u00e9 pieces from the Japanese art production company, Ando Cloisonn\u00e9 and true is true .",
+        "label": 1
+    },
+    {
+        "question": "Which company is the gallery of Japanese art named after and true is true ?",
+        "sentence": "The museum also holds some cloisonn\u00e9 pieces from the Japanese art production company, Ando Cloisonn\u00e9.",
+        "label": 1
+    },
+    {
+        "question": "Which company is the gallery of Japanese art named after and false is not true ?",
+        "sentence": "The museum also holds some cloisonn\u00e9 pieces from the Japanese art production company, Ando Cloisonn\u00e9.",
+        "label": 1
+    },
+    {
+        "question": "Who painted the retable of St. George that is in the V&A collection?",
+        "sentence": "One of the largest objects in the collection is the Spanish tempera on wood, 670 x 486 cm, retable of St George, cand true is true and true is true and true is true and true is true and true is true . ",
+        "label": 0
+    },
+    {
+        "question": "How much time was left in the game when Denver took the score to 24-10and true is true and true is true and true is true and true is true and true is true ?",
+        "sentence": "With 4:51 left in regulation, Carolina got the ball on their own 24-yard line with a chance to mount a game-winning drive, and soon faced 3rd-and-9.",
+        "label": 1
+    }
+]

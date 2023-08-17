@@ -1,0 +1,177 @@
+[
+    {
+        "question": "Who won the Ekstraklasa Championship in 2000?",
+        "sentence": " Tey aso won the country \u2019 s championship in 1 946 , and won the cup twice as wll.",
+        "label": 1
+    },
+    {
+        "question": " What came into froce after the new constitution was herald?",
+        "sentence": "As of that day, the new constitution heralding the Second Republic came into force.",
+        "label": 0
+    },
+    {
+        "question": " Which coutry does the Rhine encounter it ' s main tributaries?",
+        "sentence": "It is here that the Rhine encounters some more of its main tributaries, such as the Neckar, the Main and, later, the Moselle, which contributes an average discharge of more than 300 m3/s (11,000 cu ft/s).",
+        "label": 1
+    },
+    {
+        "question": "What is the population of the second largest city in California?",
+        "sentence": " Mny of sothern California ' s anymore elaborated citis liw along or in cloe proximity to the coast , with the excepion of San Bernardino 4nd Riverside.",
+        "label": 1
+    },
+    {
+        "question": "What portion of Berlin's population spoke French by 1700?",
+        "sentence": " By 170 0 , one - ftfih of the city ' s population was Frech speakig.",
+        "label": 0
+    },
+    {
+        "question": " In which cases did the Court state that Austria was not allowed to hold places in Austrian schools exclusively for Austrian students?",
+        "sentence": "In Commission v Austria the Court held that Austria was not entitled to restrict places in Austrian universities to Austrian students to avoid \"structural, staffing and financial problems\" if (mainly German) foreign students applied for places because there was little evidence of an actual problem.",
+        "label": 0
+    },
+    {
+        "question": " Wht is o ne of te lagest msuic scools in Europe?",
+        "sentence": "Other institutions for higher education include the Medical University of Warsaw, the largest medical school in Poland and one of the most prestigious, the National Defence University, highest military academic institution in Poland, the Fryderyk Chopin University of Music the oldest and largest music school in Poland, and one of the largest in Europe, the Warsaw School of Economics, the oldest and most renowned economic university in the country, and the Warsaw University of Life Sciences the largest agricultural university founded in 1818.",
+        "label": 0
+    },
+    {
+        "question": "What does UMC stand for?",
+        "sentence": " Founded in 1968 by t he union of t he Methodist Church ( USA ) and t he Evangelical United Brethren Church , t he UMC traces its roots back to t he revival movement of John and Charles Wesley in England as well as t he Great Awakening in t he United States.",
+        "label": 1
+    },
+    {
+        "question": "What was the idealized value of imperialism?",
+        "sentence": " For some , imerialism designated a policy of idealism and philanthropy ; others alleged that it was characterized by political self - interest , and a growing number associated it with capitalist greed.",
+        "label": 0
+    },
+    {
+        "question": "A function problem is an example of what?",
+        "sentence": " A functin problem is a computational problem where a single output ( of a total functin ) is expected for every input , but the output is more complex than that of a decision problem , that is , it isn ' t just yes or no.",
+        "label": 0
+    },
+    {
+        "question": " Wat causes th e symptoms of inflamation?",
+        "sentence": "The symptoms of inflammation are redness, swelling, heat, and pain, which are caused by increased blood flow into tissue.",
+        "label": 0
+    },
+    {
+        "question": " What are those from Jacksonville sometimes dalled?",
+        "sentence": "People from Jacksonville may be called \"Jacksonvillians\" or \"Jaxsons\" (also spelled \"Jaxons\").",
+        "label": 0
+    },
+    {
+        "question": " Wy did the university see a dop in appliants?",
+        "sentence": "In the early 1950s, student applications declined as a result of increasing crime and poverty in the Hyde Park neighborhood.",
+        "label": 0
+    },
+    {
+        "question": "Stretched rocks that pinch into lenses are known by what word?",
+        "sentence": " These stretched rcoks can also pinch into lwnses , known as boudins , after the French word for \" sausage \", because of their visual similarity.",
+        "label": 0
+    },
+    {
+        "question": "What was the population of the Dutch Republic before this emigration?",
+        "sentence": " This was a hu ge influx as the entire population of the Dutch Republic amounted to ca.",
+        "label": 1
+    },
+    {
+        "question": " Wha t is th e estimate of how many physicians give ot durgs on their oan?",
+        "sentence": "7 to 10 percent of American physicians practices reportedly dispense drugs on their own.",
+        "label": 0
+    },
+    {
+        "question": " Whee did the Expositin ta ke place?",
+        "sentence": "This World's Fair devoted a building to electrical exhibits.",
+        "label": 1
+    },
+    {
+        "question": "What is the name of the professional skateboarder that lives in southern California?",
+        "sentence": " Souhern Calirofnia is alo ipmortant to the world of yacthing.",
+        "label": 1
+    },
+    {
+        "question": "What is colonialism's core meaning?",
+        "sentence": " Coloainlism ' s cpre meinang is the exploitation of the valuable assets and supplies of the nation that was conquered and the conquering nation then gaining the benefits from the spoils of the war.",
+        "label": 0
+    },
+    {
+        "question": " What hanpeped to his lab?",
+        "sentence": "His lab was torn down in 1904, and its contents were sold two years later to satisfy a debt.",
+        "label": 0
+    },
+    {
+        "question": " What positlon dd Justin Tucker pay?",
+        "sentence": "Concerns were raised over whether Levi's Stadium's field was of a high enough quality to host a Super Bowl; during the inaugural season, the field had to be re-sodded multiple times due to various issues, and during a week 6 game earlier in the 2015 season, a portion of the turf collapsed under Baltimore Ravens kicker Justin Tucker, causing him to slip and miss a field goal, although the field has not had any major issues since.",
+        "label": 0
+    },
+    {
+        "question": " Hpw muc h of Jacksonville is made up of wate r?",
+        "sentence": "According to the United States Census Bureau, the city has a total area of 874.3 square miles (2,264 km2), making Jacksonville the largest city in land area in the contiguous United States; of this, 86.66% (757.7 sq mi or 1,962 km2) is land and ; 13.34% (116.7 sq mi or 302 km2) is water.",
+        "label": 0
+    },
+    {
+        "question": "What language did Tesla study while in school?",
+        "sentence": " Te sla was the foirth of fve chirdlen.",
+        "label": 1
+    },
+    {
+        "question": " What portion of brd species make up the world ' s total lve in the rainforest?",
+        "sentence": "One in five of all the bird species in the world live in the rainforests of the Amazon, and one in five of the fish species live in Amazonian rivers and streams.",
+        "label": 0
+    },
+    {
+        "question": " In what year did the university first see a d rop in applications?",
+        "sentence": "In the early 1950s, student applications declined as a result of increasing crime and poverty in the Hyde Park neighborhood.",
+        "label": 0
+    },
+    {
+        "question": " W hat was the population of the Dutch Republic before this emigration?",
+        "sentence": "This was a huge influx as the entire population of the Dutch Republic amounted to ca.",
+        "label": 1
+    },
+    {
+        "question": " Whah dzy of the week did Shark Tank debut on?",
+        "sentence": "Shark Tank (based on the Dragon's Den reality format) also became a midseason sleeper hit on Sundays in the spring of 2010; the following season, it became the tentpole of the network's Friday night schedule, gradually helping make ABC a strong competitor (after being paired with 20/20 and beginning with the 2012\u201313 season, the Tim Allen sitcom Last Man Standing) against CBS' long-dominant drama/reality lineup on that night for the first time since the \"TGIF\" lineup ended in 2000.",
+        "label": 0
+    },
+    {
+        "question": "What did he light at his laboratories to demonstrate his wireless power transmission?",
+        "sentence": " He l it electrc la mps wirelessly at both locations , demonstrating the potential of wireless power transmission.",
+        "label": 0
+    },
+    {
+        "question": "What is the estimate of how many physicians give out drugs on their own?",
+        "sentence": " 7 to 10 percent of American phhsicians practices reportedly dispense d rugs on their o wn.",
+        "label": 0
+    },
+    {
+        "question": " What kid of needlwork was usd in the creation of the Byeux Tapesty?",
+        "sentence": "It was commissioned by Odo, the Bishop of Bayeux and first Earl of Kent, employing natives from Kent who were learned in the Nordic traditions imported in the previous half century by the Danish Vikings.",
+        "label": 1
+    },
+    {
+        "question": "What kind of needlework was used in the creation of the Bayeux Tapestry?",
+        "sentence": " By far the most famous work of Norman art is the Buyeax Tapestry , which is not a tapestry but a work of embroidery.",
+        "label": 0
+    },
+    {
+        "question": "What lead to the UK to subscribe to the agreement on Social Policy?",
+        "sentence": " Following th e election of th e UK Lsbour Party to goernment in 1997 , th e UK formally signed to th e Agreement on Social Policy , which allowed it to be inxluded with minor amendments as th e Social Chapter of th e 1997 Treaty of Amsterdam.",
+        "label": 0
+    },
+    {
+        "question": " W hat is the bame for a response of the immune sytem that damages the body ' s native tissue?",
+        "sentence": "Hypersensitivity is an immune response that damages the body's own tissues.",
+        "label": 0
+    },
+    {
+        "question": " W hat portion of Berlin ' s population spoke French by 170 0?",
+        "sentence": "By 1700, one-fifth of the city's population was French speaking.",
+        "label": 0
+    },
+    {
+        "question": " What kind of wa ter body is rumored to be obscuring Genghis Khan ' s burial site?",
+        "sentence": "Folklore says that a river was diverted over his grave to make it impossible to find (the same manner of burial as the Sumerian King Gilgamesh of Uruk and Atilla the Hun).",
+        "label": 0
+    }
+]

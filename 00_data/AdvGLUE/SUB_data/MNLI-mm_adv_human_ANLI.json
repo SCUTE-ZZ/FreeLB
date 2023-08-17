@@ -1,0 +1,112 @@
+[
+    {
+        "premise": "I wonder how he expects us to put forward a strong position on these issues if we are not part of the World Trade Organization or if we were not in a position, with meetings like Seattle, where we can pull together different countries from around the world that have a similar position to ours.",
+        "hypothesis": "Other different countries definitely have a similar position to the group that includes the speaker",
+        "label": 0
+    },
+    {
+        "premise": "St Mary Magdalene's Church is a Roman Catholic Parish church in Bexhill-on-Sea, East Sussex, England. It was founded in 1893 and built in 1907 in the Gothic Revival style. It is situated on the corner of Sea Road and Magdalen Road opposite Station Road and Bexhill railway station in the centre of the town. It was designed by Arthur Young and is a Grade II listed building.",
+        "hypothesis": "St Mary Magdalene's Church has been visited by people in England.",
+        "label": 0
+    },
+    {
+        "premise": "How to boost your health by adding berries to your diet<br>Start your day by adding berries to breakfast foods. Berries can easily be used to enhance breakfast foods. Sprinkle some blueberries, raspberries, or sliced strawberries in your morning cereal.",
+        "hypothesis": "Carrots can be easily used to enhance breakfast foods.",
+        "label": 1
+    },
+    {
+        "premise": "\"Look at Me (When I Rock Wichoo)\" is a song by American indie rock band Black Kids, taken from their debut album \"Partie Traumatic\". It was released in the UK by Almost Gold Recordings on September 8, 2008 and debuted on the Top 200 UK Singles Chart at number 175.",
+        "hypothesis": "The song was released in America in September 2008",
+        "label": 1
+    },
+    {
+        "premise": "Rock stars Aerosmith are to hold a free concert in Hawaii to placate angry fans who brought a legal case against them. The Walk This Way hitmakers cancelled a sold-out show in Maui two years ago, leaving hundreds of fans out of pocket. They filed a class action case, which claimed the band had pulled out in favour of a bigger gig in Chicago and a private show for car dealers in Oahu. Lawyers for the would-be concert-goers said Aerosmith had now agreed to put on a new show, and would pay all expenses.",
+        "hypothesis": "Lawyers forced aerosmith to host a new show",
+        "label": 0
+    },
+    {
+        "premise": "Mount Weeks, formerly Round Mountain, is a mountain located in Coos County, New Hampshire. Mt. Weeks is the northeasternmost of the Pliny Range of the White Mountains and the highest point within the city limits of Berlin, New Hampshire. Mount Weeks is flanked to the southwest by South Weeks, and faces Terrace Mountain to the northwest across Willard Notch.",
+        "hypothesis": "Mount Weeks is not located in Berlin, Germany.",
+        "label": 0
+    },
+    {
+        "premise": "Rod Blagojevich, the former governor of the US state of Illinois, was indicted on Thursday on charges of corruption for allegedly planning to \"sell\" Barack Obama's Senate seat when the latter vacated it to become President. Five of his advisers, including Blagojevich's brother Robert, were also indicted. The others are former fundraiser, Christopher Kelly, former chief of staff John Harris, former aide Lon Monk, and the lobbyist William Cellini.",
+        "hypothesis": "A grand jury decided there was enough evidence to conduct a trial for Rob Blagojevich. ",
+        "label": 0
+    },
+    {
+        "premise": "The first season of \"Charmed\", an American supernatural drama television series created by Constance M. Burge, premiered on October 7, 1998 on The WB. Airing on Wednesdays at 9:00 pm, the season consisted of 22 episodes and concluded its airing on May 26, 1999. Paramount Home Entertainment released the complete first season in a six-disc box set on February 1, 2005.",
+        "hypothesis": "The airing of the first season of \"Charmed\" lasted 8 months ",
+        "label": 2
+    },
+    {
+        "premise": "Hickory Hill, also known sometimes as the Thomas E. Watson House, is a historic house museum at 502 Hickory Hill Drive in Thomson, Georgia. A National Historic Landmark, it was a home of Georgia Populist Party co-founder Thomas E. Watson (1856-1922).",
+        "hypothesis": "Thomas E. Watson built a National Landmark in Georgia. ",
+        "label": 1
+    },
+    {
+        "premise": "Flat tire<br>Allie was driving back home. But her tire was flat. She had to call for help. Someone brought a pump. Then she was on her way home.",
+        "hypothesis": "The pump resurrected her tire from its horrible fate",
+        "label": 0
+    },
+    {
+        "premise": "John Davison Rockefeller III (March 21, 1906 \u2013 July 10, 1978) was a philanthropist and third-generation member of the prominent Rockefeller family. He was the eldest son of philanthropists John D. Rockefeller Jr. and Abby Aldrich Rockefeller. His siblings were Abby, Nelson, Laurance, Winthrop, and David.",
+        "hypothesis": "John Rockefeller was seventy-two when he passed away. ",
+        "label": 0
+    },
+    {
+        "premise": "Charley and the Angel is a 1973 Disney family/comedy film set in an unidentified small city in the 1930s Depression-era Midwestern United States and starring Fred MacMurray in one of his final film appearances and his last movie for Disney. The film, directed by Vincent McEveety, is based on \"The Golden Evenings of Summer\", a 1971 novel written by Will Stanton.",
+        "hypothesis": "Fred MacMurray starred in the final film of Charley and the Angel.",
+        "label": 1
+    },
+    {
+        "premise": "Kyle Tonetti (born 8 October 1987) is a South Africa born former rugby union player, who represented Ireland at various international levels. He primarily played as a centre, though he also played at fly-half earlier in his career. He last played for Irish provincial team Connacht in the Pro12 before being forced to retire prematurely due to injury.",
+        "hypothesis": "Rugby can be a dangerous sport.",
+        "label": 0
+    },
+    {
+        "premise": "Chris Stafford (born Christopher Stafford on July 18, 1977, in Collinsville, Illinois) is an American actor. He has acted in film and television including \"Law & Order\" and the coming-out movie \"Edge of Seventeen\", for which he received the Best Actor award at Outfest, and an Independent Spirit Award nomination. After acting Stafford turned his hand to Law. He is now a lawyer.",
+        "hypothesis": "Chris Stafford is over 45 years old.",
+        "label": 2
+    },
+    {
+        "premise": "Annie Gariepy (born May 12, 1975 in Bromont, Qu\u00e9bec) is a female member of the Canadian cycling team and has cycled for the American team auto trader. Gariepy was the only Canadian on the team with her team mates included Sarah Ulmer, Susie Pryde, Kim Smith and WFP Shuster. she left Team Autotrader at the beginning of 2002 when she passed over to team trek more.",
+        "hypothesis": "Kim Smith left Team Autotrader in 2002.",
+        "label": 1
+    },
+    {
+        "premise": "Nauset Regional High School an NEASC accredited high school located in North Eastham, Massachusetts. Nauset is inside the Cape Cod National Seashore, making it the only high school on the East Coast located within a National Park. The open campus is situated about a half-mile from Nauset Light. Nauset's colors are Black and Gold and the school's mascot is the Warrior.",
+        "hypothesis": "There are several High Schools located in National Parks on the West Coast.",
+        "label": 1
+    },
+    {
+        "premise": "Boys Republic () is a South Korean K-pop boy band consisting of five members: Onejunn, Sunwoo, Sungjun, Minsu, and Suwoong. They are Universal Music's first K-pop idol group (also managed by Happy Tribe Entertainment). Boys Republic debuted on June 5, 2013 with the single, \"Party Rock\". Their official fan club name is \"Royal Family\".",
+        "hypothesis": "Boys Republic have been around for over six years.",
+        "label": 0
+    },
+    {
+        "premise": "Peeya Rai Chowdhary is an Indian actress. Peeya Rai was married to model Shayan Munshi in 2006, but separated from him in 2010. She played Lakhi in Gurinder Chadha's \"Bride and Prejudice,\" Rita in the movie \"The Bong Connection\" (where she worked with husband Munshi) and played \"Kiran\" in the TV show \"Hip Hip Hurray\". She studied at National College, Mumbai.",
+        "hypothesis": "Peeya Rai was not married to Munshi while she was in the TV show Hip Hip Hurray.",
+        "label": 1
+    },
+    {
+        "premise": "Officials in Gladewater are working to figure out the cause behind elevated levels of lead in the city's drinking water. On Monday, the city sent out a notice advising residents that water tested from June to September had higher than usual levels of lead. Levels that were not a violation under fed",
+        "hypothesis": "Officials in Gladewater worked hard & figured out the cause behind elevated levels of lead in the city's drinking water.",
+        "label": 2
+    },
+    {
+        "premise": "Rusty went rolling helplessly over on the rug ; he picked himself up dazedly .<br>What sort of a cat was this who had boxed his ears ?<br>He looked dubiously at the Sarah-cat .<br>Would he or would he not ?<br>The Sarah-cat deliberately turned her back on him and resumed her toilet operations .<br>Rusty decided that he would not .",
+        "hypothesis": "Rusty is a friendly kind of cat.",
+        "label": 1
+    },
+    {
+        "premise": "And this is a town that everybody agrees, law enforcement, Border Patrol, residents on both sides, is a staging area of illegal drugs and illegal aliens.",
+        "hypothesis": "Illegal aliens are bringing drugs into the town.",
+        "label": 1
+    },
+    {
+        "premise": "Emma Catherine Rigby (born 26 September 1989) is an English actress. She is best known for playing the role of Hannah Ashworth in long-running soap opera \"Hollyoaks\", Gemma Roscoe in BBC One drama series \"Prisoners' Wives\" and as the Red Queen in American fantasy-drama \"Once Upon a Time in Wonderland.\"",
+        "hypothesis": "Emma Catherine Rigby was born in England in 1989.",
+        "label": 1
+    }
+]

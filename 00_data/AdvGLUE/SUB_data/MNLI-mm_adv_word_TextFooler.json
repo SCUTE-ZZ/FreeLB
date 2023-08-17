@@ -1,0 +1,37 @@
+[
+    {
+        "premise": "Here , the object of play is the written form of the answer , or , more precisely , the letters of which that form consists .",
+        "hypothesis": "In this situation the object is in the manuscript form .",
+        "label": 0
+    },
+    {
+        "premise": "for ` family hold back , ' an exhortation ensuring ample provender for guests .",
+        "hypothesis": "'family holds back , ' an emphatic command to guarantee enough food for commuters .",
+        "label": 0
+    },
+    {
+        "premise": "Captain Victor Saracini and First Officer Michael Horrocks piloted the Boeing 767 , which took september flight maids .",
+        "hypothesis": "The Captain was Michael Horrocks and there were 4 flight attendants aboard .",
+        "label": 2
+    },
+    {
+        "premise": "I was on this earth you know , I've lived on this earth for some reason , I just don't know what it is yet .",
+        "hypothesis": "I don't yet reckon the reason why I have live on planets .",
+        "label": 0
+    },
+    {
+        "premise": "At 9 : 03 , United 175 slipped into the South Tower .",
+        "hypothesis": "United 175 crashed into the South Tower at 9 : 03 .",
+        "label": 0
+    },
+    {
+        "premise": "The music industry .",
+        "hypothesis": "The tapes companies .",
+        "label": 1
+    },
+    {
+        "premise": "Something to that effect .",
+        "hypothesis": "It's the versa of that .",
+        "label": 2
+    }
+]

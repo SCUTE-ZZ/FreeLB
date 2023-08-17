@@ -1,0 +1,122 @@
+[
+    {
+        "question1": "Can you TRANSLATE these to English language?",
+        "question2": " Cn you translate ths from Bengali to English lagnuage?",
+        "label": 0
+    },
+    {
+        "question1": " What is lperational research?",
+        "question2": "What is operations research?",
+        "label": 1
+    },
+    {
+        "question1": "What's the easiest way to make money online from India?",
+        "question2": " What is the beqt way to make money in ind ia?",
+        "label": 0
+    },
+    {
+        "question1": " How do you get better gredas?",
+        "question2": "How can I dramatically improve my grades?",
+        "label": 1
+    },
+    {
+        "question1": " I am 25 year old guy and neer had a girnfrield. Is this weird?",
+        "question2": "I am 25 years old. I have never had a girlfriend. Is something wrong with me?",
+        "label": 1
+    },
+    {
+        "question1": " How c an I create the most popular question on Quora?",
+        "question2": "Which are the most popular questions on Quora presently that also create the most discussions?",
+        "label": 0
+    },
+    {
+        "question1": " Are ailens real or are they fake?",
+        "question2": "Do aliens exists?",
+        "label": 1
+    },
+    {
+        "question1": " \" Who is the Adam the lyrics to Blink - 182 ' s \"\" Adam ' s Song \"\" are written abou t ?\"",
+        "question2": "\"Which Blink-182 band member wrote the lyrics to \"\"Adam's Song\"\"?\"",
+        "label": 0
+    },
+    {
+        "question1": " What was the deadliest batle in history?",
+        "question2": "What was the bloodiest battle in history?",
+        "label": 1
+    },
+    {
+        "question1": " What are the best things to do in Hog Kong?",
+        "question2": "What is the best thing in Hong Kong?",
+        "label": 1
+    },
+    {
+        "question1": " What people who you ' ve nveer jet have inluenced your life the most?",
+        "question2": "Who are people you have never met who have had the greatest influence on your life?",
+        "label": 1
+    },
+    {
+        "question1": "What was the deadliest battle in history?",
+        "question2": " What was the bloodest bttle in histroy?",
+        "label": 1
+    },
+    {
+        "question1": "Why are African-Americans so beautiful?",
+        "question2": " Why ar e hipsanics so beautiful?",
+        "label": 0
+    },
+    {
+        "question1": " Is there a reason why we should tavel alone?",
+        "question2": "What are some reasons to travel alone?",
+        "label": 1
+    },
+    {
+        "question1": " How can I creae the most popular question on Quora?",
+        "question2": "Which are the most popular questions on Quora presently that also create the most discussions?",
+        "label": 0
+    },
+    {
+        "question1": " Is it a bad tie to buy a condo or a house in the Bay Area in 2017?",
+        "question2": "Would 2017 be a good time to buy a house in Bay Area?",
+        "label": 1
+    },
+    {
+        "question1": " What are the best tips for outlining / planning a nov el?",
+        "question2": "How do I best outline my novel?",
+        "label": 1
+    },
+    {
+        "question1": " How can you fi nd all of your Gmail acconts?",
+        "question2": "How do I resolve Gmail account issues?",
+        "label": 0
+    },
+    {
+        "question1": " What is your new year resolution , short term and long term goal for 2 017?",
+        "question2": "What will be your New Year's resolution for 2017?",
+        "label": 1
+    },
+    {
+        "question1": "How do I buy used car in India?",
+        "question2": " Whcih used car should I buy in India?",
+        "label": 0
+    },
+    {
+        "question1": " What is opeartional resarch?",
+        "question2": "What is operations research?",
+        "label": 1
+    },
+    {
+        "question1": "\"Who is the Adam the lyrics to Blink-182's \"\"Adam's Song\"\" are written about?\"",
+        "question2": " \" Which Blink - 182 band member wrte the lyrics to \"\" Adam ' s Song \"\"?\"",
+        "label": 0
+    },
+    {
+        "question1": "How do I buy used car in India?",
+        "question2": " Whi ch used car should I buy in India?",
+        "label": 0
+    },
+    {
+        "question1": " What is one of the biggest misconceptions people have about y ou?",
+        "question2": "What do you perceive to be the biggest misconception people have about you? Why do you think this misconception exists?",
+        "label": 1
+    }
+]

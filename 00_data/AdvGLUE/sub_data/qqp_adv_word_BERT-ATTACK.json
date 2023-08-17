@@ -1,0 +1,32 @@
+[
+    {
+        "question1": "How can you find all of your Gmail accounts ?",
+        "question2": "How shall I find Gmail account messages ?",
+        "label": 0
+    },
+    {
+        "question1": "are alien realistic or are they fake ?",
+        "question2": "Do aliens exists ?",
+        "label": 1
+    },
+    {
+        "question1": "How can I build the most famous questions on Quora ?",
+        "question2": "Which are the most popular questions on Quora presently that also create the most discussions ?",
+        "label": 0
+    },
+    {
+        "question1": "What are some okay child girl designations starting with D ?",
+        "question2": "What are some good baby girl names starting with D or H ?",
+        "label": 0
+    },
+    {
+        "question1": "How do I buy used car in India ?",
+        "question2": "Which used car best I buy in India ?",
+        "label": 0
+    },
+    {
+        "question1": "I'm going to remain US President one day . What should I began doing now to achieve this ?",
+        "question2": "I'm 16 and I want to become the US president someday . What should I start doing ?",
+        "label": 1
+    }
+]

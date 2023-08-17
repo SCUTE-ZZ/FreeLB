@@ -1,0 +1,18 @@
+[
+    {
+        "sentence": "holden caulfield did it better .",
+        "label": 0
+    },
+    {
+        "sentence": "i think you 're here for raunchy college humor .",
+        "label": 1
+    },
+    {
+        "sentence": "where were the mesmerizing performances of the tracks keep the audience closed ?",
+        "label": 1
+    },
+    {
+        "sentence": "without hesitation , he 's desperate .",
+        "label": 0
+    }
+]

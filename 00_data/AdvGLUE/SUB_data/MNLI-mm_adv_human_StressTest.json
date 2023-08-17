@@ -1,0 +1,107 @@
+[
+    {
+        "premise": "If the next three flights departed on - time , how many subsequent flights need to depart from Phoenix on - time , for the airport ' s on - time departure rate to be higher than 60 % ?",
+        "hypothesis": "If the next three flights departed on - time , how many subsequent flights need to depart from Phoenix on - time , for the airport ' s on - time departure rate to be higher than more than 20 % ?",
+        "label": 0
+    },
+    {
+        "premise": "Caleb spends $ 66.50 on 50 hamburgers for the marching band",
+        "hypothesis": "Caleb spends $ 66.50 on more than 30 hamburgers for the marching band",
+        "label": 0
+    },
+    {
+        "premise": "Ayesha ' s father was less than 60 years of age when she was born while her mother was 32 years old when her brother six years younger to her was born",
+        "hypothesis": "Ayesha ' s father was 40 years of age when she was born while her mother was 32 years old when her brother six years younger to her was born",
+        "label": 1
+    },
+    {
+        "premise": "If Arun doubles his speed , then he would take 1 hour less than Anil",
+        "hypothesis": "If Arun doubles his speed , then he would take less than 6 hour less than Anil",
+        "label": 0
+    },
+    {
+        "premise": "Tim and Jim enter into a partnership by investing $ 700 and $ 300 respectively",
+        "hypothesis": "Tim and Jim enter into a partnership by investing $ 300 and $ 300 respectively",
+        "label": 2
+    },
+    {
+        "premise": "If Bill needs to walk from the corner of 2 nd Rd and 3 rd Ave to the corner of 9 th Rd and 6 th Ave in the shortest possible time , how many different routes could he take ?",
+        "hypothesis": "If Bill needs to walk from the corner of more than 2 nd Rd and 3 rd Ave to the corner of 9 th Rd and 6 th Ave in the shortest possible time , how many different routes could he take ?",
+        "label": 2
+    },
+    {
+        "premise": "Mr Yadav spends more than 10 % of his monthly salary on consumable items and 50 % of the remaining on clothes and transport",
+        "hypothesis": "Mr Yadav spends 60 % of his monthly salary on consumable items and 50 % of the remaining on clothes and transport",
+        "label": 1
+    },
+    {
+        "premise": "Jill , who lives in City C , plans to visit 5 different cities , M , L , S , N , and O",
+        "hypothesis": "Jill , who lives in City C , plans to visit more than 5 different cities , M , L , S , N , and O",
+        "label": 2
+    },
+    {
+        "premise": "Bruce and Anne can clean their house in 4 hours working together at their respective constant rates",
+        "hypothesis": "Bruce and Anne can clean their house in more than 4 hours working together at their respective constant rates",
+        "label": 2
+    },
+    {
+        "premise": "Matt is touring a nation in which coins are issued in two amounts , less than 8 \u00a2 and 5 \u00a2 , which are made of iron and copper , respectively",
+        "hypothesis": "Matt is touring a nation in which coins are issued in two amounts , 2 \u00a2 and 5 \u00a2 , which are made of iron and copper , respectively",
+        "label": 1
+    },
+    {
+        "premise": "If Jerry wants to raise his average by 2 points , what score must he earn on the fourth test ?",
+        "hypothesis": "If Jerry wants to raise his average by less than 7 points , what score must he earn on the fourth test ?",
+        "label": 0
+    },
+    {
+        "premise": "If the next three flights departed on - time , how many subsequent flights need to depart from Phoenix on - time , for the airport ' s on - time departure rate to be higher than less than 60 % ?",
+        "hypothesis": "If the next three flights departed on - time , how many subsequent flights need to depart from Phoenix on - time , for the airport ' s on - time departure rate to be higher than 40 % ?",
+        "label": 1
+    },
+    {
+        "premise": "Richard will arrange less than 7 people of 6 different heights for photograph by placing them in two rows of three so that each person in the first row is standing is standing in front of someone in the second row",
+        "hypothesis": "Richard will arrange 6 people of 6 different heights for photograph by placing them in two rows of three so that each person in the first row is standing is standing in front of someone in the second row",
+        "label": 1
+    },
+    {
+        "premise": "If Jack ' s score was within 2 standard deviations of the mean , what is the lowest score he could have received ?",
+        "hypothesis": "If Jack ' s score was within less than 7 standard deviations of the mean , what is the lowest score he could have received ?",
+        "label": 0
+    },
+    {
+        "premise": "In the biology lab of ` ` Jefferson ' ' High School there are 2.16 * less than 30 ^ 6 germs , equally divided among 10,800 Petri dishes",
+        "hypothesis": "In the biology lab of ` ` Jefferson ' ' High School there are 2.16 * 10 ^ 6 germs , equally divided among 10,800 Petri dishes",
+        "label": 1
+    },
+    {
+        "premise": "Between Tom in line 1 and Jack in line 2 there ' s a distance of 1.2 meters , the same as in the subsequent lanes",
+        "hypothesis": "Between Tom in line less than 6 and Jack in line 2 there ' s a distance of 1.2 meters , the same as in the subsequent lanes",
+        "label": 0
+    },
+    {
+        "premise": "How many clothing combinations does Barbara have , if she doesn \u2019 t wear 2 specific shirts with 3 specific pants ?",
+        "hypothesis": "How many clothing combinations does Barbara have , if she doesn \u2019 t wear less than 8 specific shirts with 3 specific pants ?",
+        "label": 0
+    },
+    {
+        "premise": "Joe \u2019 s average ( arithmetic mean ) test score across 4 equally weighted tests was 90",
+        "hypothesis": "Joe \u2019 s average ( arithmetic mean ) test score across more than 4 equally weighted tests was 90",
+        "label": 2
+    },
+    {
+        "premise": "Dacid obtained more than 42 , 45 , 72 , 77 and 75 marks ( out of 100 ) in English , Mathematics , Physics , Chemistry and Biology",
+        "hypothesis": "Dacid obtained 72 , 45 , 72 , 77 and 75 marks ( out of 100 ) in English , Mathematics , Physics , Chemistry and Biology",
+        "label": 1
+    },
+    {
+        "premise": "If Ed is 120 km away from Flora at 6 am , and also 120 km away from Flora at 11 am , then how fast is Flora driving ( in kilometers per hour ) ?",
+        "hypothesis": "If Ed is less than 620 km away from Flora at 6 am , and also 120 km away from Flora at 11 am , then how fast is Flora driving ( in kilometers per hour ) ?",
+        "label": 0
+    },
+    {
+        "premise": "The pilot of a small aircraft with a more than 10 - gallon fuel tank wants to fly to Cleveland , which is 480 miles away",
+        "hypothesis": "The pilot of a small aircraft with a 40 - gallon fuel tank wants to fly to Cleveland , which is 480 miles away",
+        "label": 1
+    }
+]

@@ -1,0 +1,57 @@
+[
+    {
+        "premise": "Here , the object of play is the written form of the answer , or , more precisely , the letters of which that form consists .",
+        "hypothesis": "In this situation the object is in the signed form .",
+        "label": 0
+    },
+    {
+        "premise": "But the highest - level Defense Department officials relied on the NMCC's air threat conference , in which the FAA did not participate for the first 48 minutes .",
+        "hypothesis": "Defense Department had pulled on the NMCC's space threat conference which didn't include the FAA intially , so crucial information was left out .",
+        "label": 1
+    },
+    {
+        "premise": "For example , those in MET who worked on Team Indy were among the first Indianapolis campus participants in the annual Purdue Grand Prix at West Lafayette .",
+        "hypothesis": "Those in MET who worked on Team Indy were not reserved to participate in the Pardue Grand Prix .",
+        "label": 2
+    },
+    {
+        "premise": "The supervisor instructed the controller to follow standard procedures for handling a no radio aircraft .",
+        "hypothesis": "Standard procedures were found for an engine with no station .",
+        "label": 0
+    },
+    {
+        "premise": "It ill behooves me , excoriated recently as enamored of the cheap larf , to criticize Safire's arch puns , which permeate' enliven is probably the word his editor would use'his articles , but I consider some kinds of humor unsuitable for reading , however they might evoke a chuckle when uttered viva voce . A handful of examples , from the book at",
+        "hypothesis": "I find that Safire tries too hard to make his readers laugh .",
+        "label": 1
+    },
+    {
+        "premise": ". Mr . Whopsle , being knocked up , was in such a very bad temper .",
+        "hypothesis": "Mr Whopsle was occupied finishing his say preparations .",
+        "label": 1
+    },
+    {
+        "premise": "The story disclosed that adults realize a long service is strong for a boy boy to sit through , but exercising self - restraint and participating in communal rituals bring praise and acceptance from the community .",
+        "hypothesis": "According to the story , adult's do realize that a small boy will find a long service difficult to sit through .",
+        "label": 0
+    },
+    {
+        "premise": "It truly was my life in high college .",
+        "hypothesis": "My life was hell in high school , really .",
+        "label": 1
+    },
+    {
+        "premise": "When we consider how much the set is on during school holidays and summer vacations , children spend more time watching TV than they do in any other waking activity , including going to school and interacting with family members or peers .",
+        "hypothesis": "TV is prince when it comes to how children spend their time .",
+        "label": 0
+    },
+    {
+        "premise": "For example , those in MET who worked on Team Indy were among the first Indianapolis campus participants in the annual Purdue Grand Prix at West Lafayette .",
+        "hypothesis": "Those in MET who served on Team Indy were not reserved to begin in the Pardue Grand Prix .",
+        "label": 2
+    },
+    {
+        "premise": "As with many new technologies that have developed since the 1970s , adoption of innovative equipment is still occurring in fits and starts and depends on a given firm's size and mix of products .",
+        "hypothesis": "A firm's size and product variety will depend on whether or not they use original equipment .",
+        "label": 0
+    }
+]

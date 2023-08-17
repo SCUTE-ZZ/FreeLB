@@ -1,0 +1,97 @@
+[
+    {
+        "question1": "I ' m going to be US President one day . What should I start doing now to achieve this ?",
+        "question2": "I ' m 16 and I wanted to overthrow te US president someday . What should I pursue doing ?",
+        "label": 1
+    },
+    {
+        "question1": "How do I buy used car in India?",
+        "question2": "Whcih used car should I buy in India?",
+        "label": 0
+    },
+    {
+        "question1": "What examines operational research ?",
+        "question2": "What is operations research ?",
+        "label": 1
+    },
+    {
+        "question1": "Is it a bad time to buy a condo or a house in the Bay Area in 2017 ?",
+        "question2": "Would 2017 be a good chance to buy a house in Bay Area ?",
+        "label": 1
+    },
+    {
+        "question1": "How do I buy used car in India?",
+        "question2": "Whivh used car should I buy in India?",
+        "label": 0
+    },
+    {
+        "question1": "What are the procedures for becoming an actuary?",
+        "question2": "Why is the procedure of becoming an actuary?",
+        "label": 1
+    },
+    {
+        "question1": "How do I buy used car in India?",
+        "question2": "Whidh used car should I buy in India?",
+        "label": 0
+    },
+    {
+        "question1": "\" Who is the Adam the lyrics to Blink - 182 ' s \" \" Adam ' s Song \" \" are written about ? \"",
+        "question2": "\" Which Blink - 182 band member written the words to \" \" Adam ' s Track \" \" ? \"",
+        "label": 0
+    },
+    {
+        "question1": "How do you get beettr grades?",
+        "question2": "How can I dramatically improve my grades?",
+        "label": 1
+    },
+    {
+        "question1": "What are the best information for outlining / planning a noel ?",
+        "question2": "How do I best outline my novel ?",
+        "label": 1
+    },
+    {
+        "question1": "What was the deadliest batle in history?",
+        "question2": "What was the bloodiest battle in history?",
+        "label": 1
+    },
+    {
+        "question1": "How do I buy used car in India?",
+        "question2": "Wcihh used car should I buy in India?",
+        "label": 0
+    },
+    {
+        "question1": "How do I buy used car in India?",
+        "question2": "Whifh used car should I buy in India?",
+        "label": 0
+    },
+    {
+        "question1": "\" Who be the Adam the lyrics to Blink - 182 ' s \" \" Adam ' s Song \" \" were written about ? \"",
+        "question2": "\" Which Blink - 182 band member wrote the lyrics to \" \" Adam ' s Song \" \" ? \"",
+        "label": 0
+    },
+    {
+        "question1": "Will consuming only eat dinner dinner tip to fitness loss ?",
+        "question2": "Does eating dinner earlier in the evening help with weight loss ?",
+        "label": 0
+    },
+    {
+        "question1": "Why Tamil Nadu Universities are no good ?",
+        "question2": "Why equal yhe 10th universities incapable to exams 100 % in Tamil Nadu ?",
+        "label": 0
+    },
+    {
+        "question1": "How do I buy used car in India?",
+        "question2": "Whch used car should I buy in India?",
+        "label": 0
+    },
+    {
+        "question1": "How am I make the most popular question along Quora?",
+        "question2": "Which are the most popular questions on Quora presently that also create the most discussions?",
+        "label": 0
+    },
+    {
+        "question1": "How do I buy used car in India?",
+        "question2": "Whih used car should I buy in India?",
+        "label": 0
+    }
+]

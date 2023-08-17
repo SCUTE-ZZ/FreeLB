@@ -1,0 +1,52 @@
+[
+    {
+        "premise": "The story refers that children realize a long service is hard for a small boy to sit through , but exercising self - restraint and participating in communal rituals bring praise and acceptance from the community .",
+        "hypothesis": "According to the story , adult ' s do realize that a small boy will find a long service difficult to sit through .",
+        "label": 0
+    },
+    {
+        "premise": "Soon courage read that how children turn out comes mostly written in their genes; there's little we as parents can do about it.",
+        "hypothesis": "How children turn out is primarily determined by how they're parented.",
+        "label": 2
+    },
+    {
+        "premise": "It ill behooves me, excoriated recently as enamored of the  cheap larf,  to criticize Safire's ferocious puns, which permeate' enliven  is probably the word his editor would use'his sermon, but I find some kinds of humor unsuitable for reading, however they might evoke a chuckle when uttered viva voce .  A handful of examples, from the book at ",
+        "hypothesis": "I find that Safire tries too hard to make his readers laugh.",
+        "label": 1
+    },
+    {
+        "premise": "Each prospective and current program is evaluated on the basis of its support of one or more aspects of women ' s needs .",
+        "hypothesis": "Every program is judged on how high it helped women .",
+        "label": 0
+    },
+    {
+        "premise": "I'll twist him, sir.",
+        "hypothesis": "I'll imply mis straight.",
+        "label": 2
+    },
+    {
+        "premise": "Captain Victor Saracini and First Officer Michael Horrocks piloted the Boeing 767, comparative had four flight attendants.",
+        "hypothesis": "The Captain was Michael Horrocks and there were 4 flight attendants aboard.",
+        "label": 2
+    },
+    {
+        "premise": "The answer has nothing to do with their cause , however , but with the simple fact that dictionaries are not exercises in bi - unique substitutability ; in other words , if one of the senses of run is ` operate ' ( as in She runs an engine factory ) , that does not make it valid to assume that one can substitute operate for run in We run in the marathon every year . Although recognizing this as a shortcoming of dictionaries and assigning it arbitrarily to what , for lack of",
+        "hypothesis": "Dictionaries are shorter exercises in bi - unique substitutability .",
+        "label": 2
+    },
+    {
+        "premise": "for `family hold back,' without exhortation ensuring ample provender for guests.",
+        "hypothesis": "'family hold back,' an emphatic command to guarantee enough food for visitors.",
+        "label": 0
+    },
+    {
+        "premise": "In this period, a number of key technological changes  sewing machines that made many more stitches a minute, long knives instead of shears for cutting, and pressing machines.",
+        "hypothesis": "In this period, various key new changes, sewing machines that made numerous more lines a moment, long blades rather than shears for cutting, and feather machines.",
+        "label": 0
+    },
+    {
+        "premise": "A more emphatic adjective is perjinkety ; and it has the noun perjinkity , defined as  a nicety. ",
+        "hypothesis": "Perjinkety comb words hostages used as an adjective.",
+        "label": 2
+    }
+]

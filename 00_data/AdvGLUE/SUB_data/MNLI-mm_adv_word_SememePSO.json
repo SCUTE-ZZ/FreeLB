@@ -1,0 +1,47 @@
+[
+    {
+        "premise": "The simplest is for one or more of the members to simply donate one million dollars to the IGGS Scholarship Fund .",
+        "hypothesis": "The simplest is for one million dollars to be donated by one of the agents to the IGGS Scholarship Fund .",
+        "label": 0
+    },
+    {
+        "premise": "I was on this earth you know , I've lived on this earth for some reason , I just don't know what it is yet .",
+        "hypothesis": "I don't yet know the reason why I have lived on rock .",
+        "label": 0
+    },
+    {
+        "premise": "Um , I read some of the same books that they had read to me , first , and then , as I got older , I just doomed hungry for books .",
+        "hypothesis": "I lost interest in reading over time .",
+        "label": 2
+    },
+    {
+        "premise": "There is no arguing with taste , but even those who support the second tenet must admit that if researchers felt that way about cancer , syphilis , and AIDS , there would not be much point to research at all .",
+        "hypothesis": "The second tenet dies against the fundamental philosophical principle , it's useful on paper , but destructive in practice .",
+        "label": 1
+    },
+    {
+        "premise": "It seriously was my life in high school .",
+        "hypothesis": "My life was hell in high school , really .",
+        "label": 1
+    },
+    {
+        "premise": "The story disclosed that adults realize a slim service is hard for a small boy to sit through , but exercising self - restraint and participating in communal rituals bring praise and acceptance from the community .",
+        "hypothesis": "According to the story , adult's do realize that a small boy will find a long service difficult to sit through .",
+        "label": 0
+    },
+    {
+        "premise": "When we consider how much the set is on during school holidays and summer vacations , children spend more time defending TV than they do in any other waking activity , including going to school and interacting with family members or peers .",
+        "hypothesis": "TV is king when it comes to how children spend their time .",
+        "label": 0
+    },
+    {
+        "premise": "Over the past three decades , external forces impinging on the subclass have transformed parents' and , notwithstanding , children's lives .",
+        "hypothesis": "Despite the changes in the family , the children were unaffected by the parents .",
+        "label": 2
+    },
+    {
+        "premise": "Specific cliches' working wife , working mother , house - wife , etc . 'are discussed , with sober explanations of why they are offensive and with suggestions for suitable alternatives .",
+        "hypothesis": "The work lied spelled by Gloria Steinem .",
+        "label": 1
+    }
+]

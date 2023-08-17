@@ -1,0 +1,22 @@
+[
+    {
+        "question": "gott , what was mr. gott , dich loben wir ?",
+        "sentence": "He paraphrased the Te Deum as \"Herr Gott, dich loben wir\" with a simplified form of the melody.",
+        "label": 1
+    },
+    {
+        "question": "the function problem is an example of what ?",
+        "sentence": "Notable examples include the traveling salesman problem and the integer factorization problem.",
+        "label": 1
+    },
+    {
+        "question": "it was the population of the dutch republic before this emigration .",
+        "sentence": "This was a huge influx as the entire population of the Dutch Republic amounted to ca.",
+        "label": 1
+    },
+    {
+        "question": "hey , what did shark today debut on ?",
+        "sentence": "Shark Tank (based on the Dragon's Den reality format) also became a midseason sleeper hit on Sundays in the spring of 2010; the following season, it became the tentpole of the network's Friday night schedule, gradually helping make ABC a strong competitor (after being paired with 20/20 and beginning with the 2012\u201313 season, the Tim Allen sitcom Last Man Standing) against CBS' long-dominant drama/reality lineup on that night for the first time since the \"TGIF\" lineup ended in 2000.",
+        "label": 0
+    }
+]

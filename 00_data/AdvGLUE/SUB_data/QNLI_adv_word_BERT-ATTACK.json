@@ -1,0 +1,42 @@
+[
+    {
+        "question": "What was the population of the Dutch Republic before this emigration ?",
+        "sentence": "This was a major influx as the entire population of the Dutch Republic amounted to ca .",
+        "label": 1
+    },
+    {
+        "question": "When did Warsaw become the center of the Congress Poland ?",
+        "sentence": "Warsaw remained the center of the Polish\u2013Lithuanian Commonwealth until 1796 , when it was annexed by the Kingdom of Prussia to become the capital of the province of South Prussia .",
+        "label": 1
+    },
+    {
+        "question": "How was Tem\u00fcjin kept imprisoned by the Tayichi'ud ?",
+        "sentence": "The Tayichi'ud captured Tem\u00fcjin ( reportedly with a cangue , a sort of portable stocks ) , but with the help of a sympathetic guard , the father of Chilaun ( who later became a general of Genghis Khan ) , he was able to escape from the ger ( yurt ) in the middle of the night by hiding in a river crevice . [ citation needed ]",
+        "label": 0
+    },
+    {
+        "question": "What was the people of the Dutch Republic before this emigration ?",
+        "sentence": "This was a huge influx as the entire population of the Dutch Republic amounted to ca .",
+        "label": 1
+    },
+    {
+        "question": "What came into power after the new constitution was herald ?",
+        "sentence": "As of that day , the new constitution heralding the Second Republic came into force .",
+        "label": 0
+    },
+    {
+        "question": "What kind of river body is rumored to be obscuring Genghis Khan's burial site ?",
+        "sentence": "Folklore says that a river was diverted over his grave to make it impossible to find ( the same manner of burial as the Sumerian King Gilgamesh of Uruk and Atilla the Hun ) .",
+        "label": 0
+    },
+    {
+        "question": "What does UMC stand for ?",
+        "sentence": "Founded in 1968 by the uniting of the Methodist Church ( USA ) and the Evangelical United Brethren Church , the UMC roots its based back to the revival movements of minister and Charles Wesley in England as straight as the Great Awakening in the United States .",
+        "label": 1
+    },
+    {
+        "question": "In which cases did the Court state that Austria was not allowed to hold places in Austrian schools exclusively for Austrian students ?",
+        "sentence": "In Commission v Austria the Court held that Austria was not entitled to restrict places in Austrian universities to Austrian students to avoid \" structural , staffing and financial problems \" if ( mainly German ) foreign students applied for places because there was little evidence of an actual problem .",
+        "label": 0
+    }
+]

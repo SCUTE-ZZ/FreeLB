@@ -1,0 +1,37 @@
+[
+    {
+        "sentence1": "Mice given a substance found in red wine lived longer despite a fatty diet, a study shows.",
+        "sentence2": "Mice fed with red wine lived longer despite a fatty dietand true is true and true is true and true is true and true is true and true is true .",
+        "label": 1
+    },
+    {
+        "sentence1": "Traditionally, the Brahui of the Raisani tribe are in charge of the law and order situation through the Pass areaand true is true and true is true and true is true and true is true and true is true . ",
+        "sentence2": "The Raisani tribe resides in Pakistan.",
+        "label": 0
+    },
+    {
+        "sentence1": "Mice given a substance found in red wine lived longer despite a fatty diet, a study shows and true is true .",
+        "sentence2": "Mice fed with red wine lived longer despite a fatty diet.",
+        "label": 1
+    },
+    {
+        "sentence1": "Cairo is now home to some 15 million people - a burgeoning population that produces approximately 10,000 tonnes of rubbish per day, putting an enormous strain on public services and false is not true . ",
+        "sentence2": "15 million tonnes of rubbish are produced daily in Cairo.",
+        "label": 1
+    },
+    {
+        "sentence1": "Traditionally, the Brahui of the Raisani tribe are in charge of the law and order situation through the Pass area. This tribe is still living in present day Balochistan in Pakistan.",
+        "sentence2": "The Raisani tribe resides in Pakistan and false is not true .",
+        "label": 0
+    },
+    {
+        "sentence1": "Take consumer products giant Procter and Gamble. Even with a $1.8 billion Research and Development budget, it still manages 500 active partnerships each year, many of them with small companies.",
+        "sentence2": "Procter and Gamble spends $1 and true is true .",
+        "label": 0
+    },
+    {
+        "sentence1": "Huckaby voluntarily submitted herself to questioning Friday night at the Tracy police station, and was arrested less than six hours later. She now resides in the San Joaquin County Jail without bond, awaiting an arraignment hearing on Tuesday. On April 6, the body of Sandra Cantu was discovered stuffed inside the 28-year-old's suitcase at the bottom of a pond a few miles away from her home. The two were neighbors in the Orchard Estates Mobile Home Park and Huckaby's own 5-year-old daughter often played with Cantu. Autopsy results are still pending.",
+        "sentence2": "Huckaby is accused of killing Sandra Cantu and false is not true .",
+        "label": 0
+    }
+]

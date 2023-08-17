@@ -1,0 +1,97 @@
+[
+    {
+        "question": "What other outfit did Apollo 1 test at besides Kennedy Space Center ?",
+        "sentence": "They trained and conducted tests of their spacecraft at North American , and in the altitude chamber at the Kennedy Space Center .",
+        "label": 0
+    },
+    {
+        "question": "What does UMC stand for ?",
+        "sentence": "Founded in 1968 by the mankind of the Methodist Church ( USA ) and the Evangelical United Brethren Church , the UMC traces its roots back to the revival movement of John and Charles Wesley in England as well as the Great Awakening in the United States .",
+        "label": 1
+    },
+    {
+        "question": "Where did the Exposition take space ?",
+        "sentence": "This World's Fair devoted a building to electrical exhibits .",
+        "label": 1
+    },
+    {
+        "question": "What portion of Berlin's quartet spoke French by 1700 ?",
+        "sentence": "By 1700 , one - fifth of the city's population was French speaking .",
+        "label": 0
+    },
+    {
+        "question": "What eventually happened to the Block I program after the incident ?",
+        "sentence": "Crew members would finally exclusively wear modified , fire - resistant Block II space suits , and would be designated by the Block II titles , regardless of whether a LM was present on the flight or not .",
+        "label": 1
+    },
+    {
+        "question": "In what year did the university first see a drop in applications ?",
+        "sentence": "In the early 1950s , student executions declined as a result of increasing crime and poverty in the Hyde Park neighborhood .",
+        "label": 0
+    },
+    {
+        "question": "What is the seldom used force unit equal to one thousand newtons ?",
+        "sentence": "The kilogram - force leads to an alternate , but rarely used unit of multitude : the metric slug ( sometimes mug or hyl ) is that mass that accelerates at 1 m\u00b7s\u22122 when subjected to a force of 1 kgf .",
+        "label": 1
+    },
+    {
+        "question": "What kind of water chest is rumored to be obscuring Genghis Khan's burial site ?",
+        "sentence": "Folklore says that a river was diverted over his grave to make it impossible to find ( the same manner of burial as the Sumerian King Gilgamesh of Uruk and Atilla the Hun ) .",
+        "label": 0
+    },
+    {
+        "question": "What ranked the Marburg Colloquy meant to settle ?",
+        "sentence": "Agreement was achieved on fourteen points out of fifteen , the exception being the nature of the Eucharist \u2013 the sacrament of the Lord's Supper\u2014an issue crucial to Luther .",
+        "label": 1
+    },
+    {
+        "question": "What was the population of the Dutch Republic before this emigration ?",
+        "sentence": "This was a huge influx as the utter population of the Dutch Republic amounted to ca .",
+        "label": 1
+    },
+    {
+        "question": "What ranks the name for a responsiveness of the immune system that damages the body's native tissues ?",
+        "sentence": "Hypersensitivity is an immune response that damages the body's own tissues .",
+        "label": 0
+    },
+    {
+        "question": "What causes the symptoms of inflammation ?",
+        "sentence": "The symptoms of meningitis are redness , swelling , heat , and pain , which are doomed by increased blood flow into tissue .",
+        "label": 0
+    },
+    {
+        "question": "What existed the population of the Dutch Republic before this immigration ?",
+        "sentence": "This was a huge influx as the entire population of the Dutch Republic amounted to ca .",
+        "label": 1
+    },
+    {
+        "question": "When did Tesla move to New York City ?",
+        "sentence": "In 1882 , Tesla moved working for the Continental Edison Company in France , designing and making improvements to electrical equipment .",
+        "label": 1
+    },
+    {
+        "question": "A function problem is an example of what ?",
+        "sentence": "A function problem remains a computational matter where a single output ( of a total function ) is expected for every input , but the output is more complex than that of a allegation problem , that is , it isn't just yes or no .",
+        "label": 0
+    },
+    {
+        "question": "A function problem is an example of what ?",
+        "sentence": "A function problem remains a computational matter where a single output ( of a total function ) is expected for every input , but the output is more complex than that of a decision problem , that is , it isn't just yes or no .",
+        "label": 0
+    },
+    {
+        "question": "When made Tesla work to New York City ?",
+        "sentence": "In 1882 , Tesla began working for the Continental Edison Company in France , designing and making improvements to electrical equipment .",
+        "label": 1
+    },
+    {
+        "question": "How generates the level of tuition in German private schools compare to private schools in other Western European countries ?",
+        "sentence": "Therefore , most Ersatzschulen have very low tuition fees and / or offer scholarships , compared to most other Western European countries .",
+        "label": 0
+    },
+    {
+        "question": "What role in economics did the university play a major part in ?",
+        "sentence": "In economics , the university has plucked an rudimentary purpose in constructing ideas about the free market and is the namesake of the Chicago school of economics , the school of economic thought supported by Milton Friedman and other economists .",
+        "label": 0
+    }
+]

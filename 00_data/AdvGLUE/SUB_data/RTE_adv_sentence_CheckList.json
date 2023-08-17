@@ -1,0 +1,17 @@
+[
+    {
+        "sentence1": "@Rjbj9I Mice given a substance found in red wine lived longer despite a fatty diet, a study shows.",
+        "sentence2": "Mice fed with red wine lived longer despite a fatty diet.",
+        "label": 1
+    },
+    {
+        "sentence1": "https://t.co/robKzx Yet, we now are discovering that antibiotics are losing their effectiveness against illness. Disease-causing bacteria are mutating faster than we can come up with new antibiotics to fight the new variations.",
+        "sentence2": "Bacteria is winning the war against antibiotics.",
+        "label": 0
+    },
+    {
+        "sentence1": "Take consumer products giant Procter and Gamble. Even with a $1.8 billion Research and Development budget, it still manages 500 active partnerships each year, many of them with small companies.",
+        "sentence2": "@fnDK5J Procter and Gamble spends $1.8 billion for Research and Development.",
+        "label": 0
+    }
+]

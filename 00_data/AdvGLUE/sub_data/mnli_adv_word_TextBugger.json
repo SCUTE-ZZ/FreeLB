@@ -1,0 +1,192 @@
+[
+    {
+        "premise": " She has interchange a hollow life for a heightened life , and has tried to comprehend all its turns , get its possibilities.",
+        "hypothesis": "She has chose to live a hollow life.",
+        "label": 2
+    },
+    {
+        "premise": " She has exchangd a hollow life for a heightened life , and has tried to comprehend all its turns , get its possibilities.",
+        "hypothesis": "She has chose to live a hollow life.",
+        "label": 2
+    },
+    {
+        "premise": "There are no shares of a stock that might someday come back, just piles of options as worthless as those shares of Cook's American Business Alliance.",
+        "hypothesis": " Those shares of stocks will hever come back.",
+        "label": 0
+    },
+    {
+        "premise": " Yeah i know and i did that all through college and it wokred too",
+        "hypothesis": "I did that all through college but it never worked ",
+        "label": 2
+    },
+    {
+        "premise": " The netted cst of operations.",
+        "hypothesis": "The gross cost.",
+        "label": 2
+    },
+    {
+        "premise": "Not quite as large is the Papal Crose commemorating Pope John Paul II's visit in 1979, when more than one million people gathered to celebrate mass.",
+        "hypothesis": " Les s than a million people celebrated mass during Pope John Paul II ' s visit in 1979.",
+        "label": 2
+    },
+    {
+        "premise": "Not quite as large is the Papal Crose commemorating Pope John Paul II's visit in 1979, when more than one million people gathered to celebrate mass.",
+        "hypothesis": " Pope John Paul II a lso visited in 1983.",
+        "label": 1
+    },
+    {
+        "premise": "the hologram makes up all these things and uh i mean sometimes  sometimes it's funny sometimes it's not but uh you know it's something to pass the time until we do and then and then we watch football",
+        "hypothesis": " Sonetimes it is amusig to see what the hologram crates.",
+        "label": 0
+    },
+    {
+        "premise": " In a further role r3versal , Gingrich may have positioned himself to fill it.",
+        "hypothesis": "Gingrich should not be in power.",
+        "label": 1
+    },
+    {
+        "premise": " ' Publicity .' Lilconn removed his great hat , making a small show of dusting it off.",
+        "hypothesis": "Lincoln took his hat off.",
+        "label": 0
+    },
+    {
+        "premise": "In Hong Kong you can have a plate, or even a whole dinner service, hand-painted to your own design.",
+        "hypothesis": " It ' s iipossmble to ha a plate hand - painted to yokr own design in Hong Kong.",
+        "label": 2
+    },
+    {
+        "premise": " He was of two minds , one reveled in the pexce of this village.",
+        "hypothesis": "He loved how peaceful the village was.",
+        "label": 0
+    },
+    {
+        "premise": "What's truly striking, though, is that Jobs has never really let this idea go.",
+        "hypothesis": " Jobs ne ver held onto an idea for long.",
+        "label": 2
+    },
+    {
+        "premise": "The most important directions are simply up and up leads eventually to the cathedral and fortress commanding the hilltop, and down inevitably leads to one of three gates through the wall to the new town.",
+        "hypothesis": " Go downards to one of the gates , all of which will lead you into the cathedral.",
+        "label": 2
+    },
+    {
+        "premise": "The bhakti movement of the Tamils brought a new warmth to the hitherto rigid Brahmanic ritual of Hinduism.",
+        "hypothesis": " The Tamils ' bhakti movement froz e the previously warm ritual of Hinduism.",
+        "label": 2
+    },
+    {
+        "premise": "All of the islands are now officially and proudly part of France, not colonies as they were for some three centuries.",
+        "hypothesis": " The islands are part of Frace now insead of just cplonies.",
+        "label": 0
+    },
+    {
+        "premise": "What's truly striking, though, is that Jobs has never really let this idea go.",
+        "hypothesis": " Jobs nveer held onto an idea for long.",
+        "label": 2
+    },
+    {
+        "premise": "Missouri was asked to continue its planning efforts and file a supplemental planning report with LSC on or before October 1, 1999.",
+        "hypothesis": " Missouri was ha ppy to continue it ' s planning efforts.",
+        "label": 1
+    },
+    {
+        "premise": "Still, it would be interesting to know. 109 Poirot looked at me very earnestly, and again shook his head. ",
+        "hypothesis": " Poirot did not lo ok at me.",
+        "label": 2
+    },
+    {
+        "premise": "This site includes a list of all award winners and a searchable database of Government Executive articles.",
+        "hypothesis": " The Government Executive articles housed on the website are bot able to be searched.",
+        "label": 2
+    },
+    {
+        "premise": "But you have to have money to save it, and not many couples with young children have the luxury of tucking away $2,000 apiece annually for their Golden Years.",
+        "hypothesis": " N ot many couples with kids can save up for retirement.",
+        "label": 0
+    },
+    {
+        "premise": "yeah i know and i did that all through college and it worked too",
+        "hypothesis": " I did that all through college but it bever worked",
+        "label": 2
+    },
+    {
+        "premise": "Not quite as large is the Papal Crose commemorating Pope John Paul II's visit in 1979, when more than one million people gathered to celebrate mass.",
+        "hypothesis": " L ess than a million people celebrated mass during Pope John Paul II ' s visit in 1979.",
+        "label": 2
+    },
+    {
+        "premise": " He was of two minds , one rlveeed in the peac e of this village.",
+        "hypothesis": "He loved how peaceful the village was.",
+        "label": 0
+    },
+    {
+        "premise": " Similarly , OIM revised the electronic Gran t Renewal Application to accommodate new information sought by LSC and to ensure greater ease for users.",
+        "hypothesis": "Changes were made to the Grant Renewal Application to provide extra information to the LSC.",
+        "label": 0
+    },
+    {
+        "premise": "so i have to find a way to supplement that",
+        "hypothesis": " I nee d a wag to add something extra.",
+        "label": 0
+    },
+    {
+        "premise": " Yeah i know and i did that all through college and it wkrked too",
+        "hypothesis": "I did that all through college but it never worked ",
+        "label": 2
+    },
+    {
+        "premise": "and uh as a matter of fact he's a draft dodger",
+        "hypothesis": " They doged the draf t , I ' ll have you know.",
+        "label": 0
+    },
+    {
+        "premise": " I ' m not sure what the overight lo w was",
+        "hypothesis": "I don't know how cold it got last night.",
+        "label": 0
+    },
+    {
+        "premise": "Not quite as large is the Papal Crose commemorating Pope John Paul II's visit in 1979, when more than one million people gathered to celebrate mass.",
+        "hypothesis": " Pope John Paul II alo visited in 1983.",
+        "label": 1
+    },
+    {
+        "premise": "Rouen is the ancient center of Normandy's thriving textile industry, and the place of Joan of Arc's martyrdom ' a national symbol of resistance to tyranny.",
+        "hypothesis": " Joan of Arc sacrificed her life at Rou en , which became an enduring symbol of oppisotion to tyranny.",
+        "label": 0
+    },
+    {
+        "premise": " What ' s truly striking , though , is that Jobs has never really le t this idea go.",
+        "hypothesis": "Jobs never held onto an idea for long.",
+        "label": 2
+    },
+    {
+        "premise": "well that would be a help i wish they would do that here we have got so little landfill space left that we're going to run out before the end of this decade and it's really going to be",
+        "hypothesis": " We have pelnty of space in the landfill.",
+        "label": 2
+    },
+    {
+        "premise": "In a further role reversal, Gingrich may have positioned himself to fill it.",
+        "hypothesis": " Gingrich slouhd not be in power.",
+        "label": 1
+    },
+    {
+        "premise": "From the corner of his eye he saw Jamus look over the broken mare.",
+        "hypothesis": " Jamus looed over the mare.",
+        "label": 0
+    },
+    {
+        "premise": " Britain ' s best - selling tabloid , the S un , announced as a front - page world exclusive Friday that Texan model Jerry Hall has started divorce proceedings against aging rock star Mick Jagger at the High Court in London.",
+        "hypothesis": "There is a British publication called the Sun.",
+        "label": 0
+    },
+    {
+        "premise": " Taking an ecumenical tack , nation officials in Chjcago recently issued edicts commanding preachers to back off their anti - Semitic rhetoric.",
+        "hypothesis": "Nation officials in Chicago are involved in religious issues.",
+        "label": 0
+    },
+    {
+        "premise": " Oh , what a f ool I feel!",
+        "hypothesis": "I am beyond proud.",
+        "label": 2
+    }
+]

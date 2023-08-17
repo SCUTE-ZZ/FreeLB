@@ -1,0 +1,57 @@
+[
+    {
+        "question": "What induces the symptoms of inflation ?",
+        "sentence": "The symptoms of inflammation are redness , swelling , heat , and pain , which are caused by increased blood flow into tissue .",
+        "label": 0
+    },
+    {
+        "question": "What was the population of the Dutch Republic before this emigration ?",
+        "sentence": "This was a massive influx as the entire population of the Dutch Republic amounted to californian .",
+        "label": 1
+    },
+    {
+        "question": "What kind of water body is rumored to be obscuring Genghis Khan's burial site ?",
+        "sentence": "Folklore says that a waterway was diverted over his grave to make it impossible to find ( the same manner of burial as the Sumerian King Gilgamesh of Uruk and Atilla the Hun ) .",
+        "label": 0
+    },
+    {
+        "question": "In what year did the university first see a slipped in demanding ?",
+        "sentence": "In the early 1950s , student applications declined as a result of increasing crime and poverty in the Hyde Park neighborhood .",
+        "label": 0
+    },
+    {
+        "question": "In what olds did Tesla's family transferring to Gospic ?",
+        "sentence": "Tesla was the fourth of five children .",
+        "label": 1
+    },
+    {
+        "question": "What was the populations of the Dutch Republic before this emigration ?",
+        "sentence": "This was a huge influx as the entire population of the Dutch Republic amounted to ca .",
+        "label": 1
+    },
+    {
+        "question": "What activities sets forth the functions of the Scottish Parliament ?",
+        "sentence": "The Scotland Act 1998 , which was passed by the Parliament of the United Kingdom and given royal assent by Queen Elizabeth II on 19 November 1998 , governs the functions and role of the Scottish Parliament and delimits its legislative competence .",
+        "label": 0
+    },
+    {
+        "question": "In which lawsuits did the Court state that Austria was not permitted to hold places in Austrian schools exclusively for Austrian students ?",
+        "sentence": "In Commission v Austria the Court held that Austria was not entitled to restrict places in Austrian universities to Austrian students to avoid \" structural , staffing and financial problems \" if ( mainly German ) foreign students applied for places because there was little evidence of an actual problem .",
+        "label": 0
+    },
+    {
+        "question": "What did he light at his laboratories to demonstrate his wireless power transmission ?",
+        "sentence": "He informed electric bulb wirelessly at both locations , stating the potential of wireless power transmission .",
+        "label": 0
+    },
+    {
+        "question": "Where did the Exposition bring put ?",
+        "sentence": "This World's Fair devoted a building to electrical exhibits .",
+        "label": 1
+    },
+    {
+        "question": "In what olds were Tesla's family transferring to Gospic ?",
+        "sentence": "Tesla was the fourth of five children .",
+        "label": 1
+    }
+]

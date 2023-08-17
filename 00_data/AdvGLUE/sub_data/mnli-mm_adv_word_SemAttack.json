@@ -1,0 +1,32 @@
+[
+    {
+        "premise": "It ill behooves me, excoriated recently as enamored of the  cheap larf,  to criticize Safire's arch puns, which permeate' enliven  is probably the word his editor would use'his articles, but I find some kinds of humor unsuitable for reading, however they might evoke a chuckle when uttered viva voce .  A handful of examples, from the book at ",
+        "hypothesis": "I find that Safire try too hard to draw his listeners laugh.",
+        "label": 1
+    },
+    {
+        "premise": "Captain Victor Saracini and First Officer Michael Horrocks piloted the Boeing 767 , which had four flight attendants .",
+        "hypothesis": "The Captain was Michael Horrocks and there were 4 flight attendants aboard .",
+        "label": 2
+    },
+    {
+        "premise": "Recently we read that how children turn out is mostly written in their genes; there's little we as parents can do about it.",
+        "hypothesis": "How children turn out is primarily determined by how their're parented.",
+        "label": 2
+    },
+    {
+        "premise": "she said to them, because of yiu we're going to de too, through no fault of our own!",
+        "hypothesis": "She said because of all of you we're going to live!",
+        "label": 2
+    },
+    {
+        "premise": "Recently we read that how children fade out is mostly written in their genes; there's little we as parents can do about it.",
+        "hypothesis": "How children turn out is primarily determined by how they're parented.",
+        "label": 2
+    },
+    {
+        "premise": "she said to them, because of yu we're going to de too, through no fault of our own!",
+        "hypothesis": "She said because of all of you we're going to live!",
+        "label": 2
+    }
+]

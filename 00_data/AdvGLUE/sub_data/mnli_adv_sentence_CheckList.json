@@ -1,0 +1,42 @@
+[
+    {
+        "premise": "and uh as a matter of fact he's a draft dodger",
+        "hypothesis": "https://t.co/e0ewqt They dodged the draft, I'll have you know.",
+        "label": 0
+    },
+    {
+        "premise": "While it's probably true that democracies are unlikely to go to war unless they're attacked, sometimes they are the first to take the offensive.",
+        "hypothesis": "https://t.co/HtX3g0 Democracies probably won't go to war unless someone attacks them on their soil",
+        "label": 0
+    },
+    {
+        "premise": "WHOLE LIFE POLICIES - Policies that provide insurance over the insured's entire life and the proceeds (face amount) are paid only upon death of the insured.",
+        "hypothesis": "https://t.co/lTAmYC Whole life policies are a type of life insurance that only cover the insured person until retirement from the workforce.",
+        "label": 2
+    },
+    {
+        "premise": "The Celts arrived in the wake of the Roman withdrawal at the end of the fourth century.",
+        "hypothesis": "At the end of the fourth century was when baked goods flourished. @xtrTM2",
+        "label": 1
+    },
+    {
+        "premise": "But you have to have money to save it, and not many couples with young children have the luxury of tucking away $2,000 apiece annually for their Golden Years.",
+        "hypothesis": "@daily  Not many couples with kids can save up for retirement.",
+        "label": 0
+    },
+    {
+        "premise": "One thing was worrying me dreadfully, but my heart gave a great throb of relief when I saw my ulster lying carelessly over the back of a chair. https://t.co/yIMvEi",
+        "hypothesis": "I was dreadfully worried about many things. ",
+        "label": 2
+    },
+    {
+        "premise": "i'm not opposed to it but when its when the time is right it will probably just kind of happen you know",
+        "hypothesis": "I cannot wait for it to happen. @j9eslS",
+        "label": 1
+    },
+    {
+        "premise": "WHOLE LIFE POLICIES - Policies that provide insurance over the insured's entire life and the proceeds (face amount) are paid only upon death of the insured.",
+        "hypothesis": "@9x2bNO Whole life policies are a type of life insurance that only cover the insured person until retirement from the workforce.",
+        "label": 2
+    }
+]

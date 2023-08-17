@@ -1,0 +1,52 @@
+[
+    {
+        "premise": "While parents may pick up this gay semaphore, kids aren't likely to.",
+        "hypothesis": "kids with gay signals .",
+        "label": 1
+    },
+    {
+        "premise": "5 The share of gross national saving used to replace depreciated capital has increased over the past 40 years.",
+        "hypothesis": "mr. gross nation was this year .",
+        "label": 1
+    },
+    {
+        "premise": "no one he did n't see such things as silent films from some of the silent films .",
+        "hypothesis": "He had recently seen pictures depicting those things.",
+        "label": 2
+    },
+    {
+        "premise": "mr. rose , and mr. rose .",
+        "hypothesis": "Tuppence floated into the air.",
+        "label": 1
+    },
+    {
+        "premise": "now all of the islands they 're officially now and proudly part of france .",
+        "hypothesis": "The islands are part of France now instead of just colonies.",
+        "label": 0
+    },
+    {
+        "premise": "the celts arrived in the wake of the roman retreat at the end of the fourth century .",
+        "hypothesis": "At the end of the fourth century was when baked goods flourished.",
+        "label": 1
+    },
+    {
+        "premise": "Credibility is a vital factor, and Jim Lehrer does, indeed, have it.",
+        "hypothesis": "maybe mr. lehrer has no credibility .",
+        "label": 2
+    },
+    {
+        "premise": "it would n't be me .",
+        "hypothesis": "I cannot wait for it to happen.",
+        "label": 1
+    },
+    {
+        "premise": "Boats in daily use lie within feet of the fashionable bars and restaurants.",
+        "hypothesis": "keep bars and restaurants .",
+        "label": 1
+    },
+    {
+        "premise": "i know these guys were actually on the road from two thousand miles from home when they had to finish their homework .",
+        "hypothesis": "These men filed their midterm exams from home. ",
+        "label": 2
+    }
+]

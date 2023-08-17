@@ -1,0 +1,77 @@
+[
+    {
+        "premise": "She has exchanged a hollow life for a heightened life, and has tried to comprehend all its turns, get its possibilities.",
+        "hypothesis": "She has choose to live a distorted life.",
+        "label": 2
+    },
+    {
+        "premise": "We also have found that leading organizations strive to ensure that their core processes efficiently and effectively support mission - related outcomes .",
+        "hypothesis": "Leading arrangement wat to be sure their employee are safe .",
+        "label": 1
+    },
+    {
+        "premise": "Then he fled .",
+        "hypothesis": "He ran like an athlete .",
+        "label": 1
+    },
+    {
+        "premise": "The most important directions are simply up and up leads eventually to the cathedral and fortress commanding the hilltop, and down inevitably leads to one of three gates through the wall to the new town.",
+        "hypothesis": "Go lowered to one of the gates, all of which will lead you into the cathedral.",
+        "label": 2
+    },
+    {
+        "premise": "Missouri was asked to continue its planning efforts and file a supplemental planning report with LSC on or before October 1 , 1999 .",
+        "hypothesis": "Missouri was happg to continue it ' s planning efforts .",
+        "label": 1
+    },
+    {
+        "premise": "Boats in daily use lie within feet of the fashionable bars and restaurants .",
+        "hypothesis": "Bars and restaurants are attractive places .",
+        "label": 1
+    },
+    {
+        "premise": "it's actually there well Iraq has had uh designs on that place since nineteen twenty two so you know it wasn't like something that just suddenly popped up",
+        "hypothesis": "The weird thing is it Iraq was never hesitant in that place until immediately.",
+        "label": 2
+    },
+    {
+        "premise": "We also have found that leading organizations strive to ensure that their core processes efficiently and effectively support mission - related outcomes .",
+        "hypothesis": "Leading arrangement aant to be sure their employee are safe .",
+        "label": 1
+    },
+    {
+        "premise": "We also have found that leading organizations strive to ensure that their core processes efficiently and effectively support mission - related outcomes .",
+        "hypothesis": "Leading arrangement wajt to be sure their employee are safe .",
+        "label": 1
+    },
+    {
+        "premise": "But you have to have money to save it , and not many couples with young children have the luxury of tucking away $ 2 , 000 apiece annually for their Golden Years .",
+        "hypothesis": "None manh couples with kids can save up for retirement .",
+        "label": 0
+    },
+    {
+        "premise": "Boats in daily use lie within miles of the picturesque bars and restaurants .",
+        "hypothesis": "Bars and restaurants are interesting places .",
+        "label": 1
+    },
+    {
+        "premise": "We also have found that leading organizations strive to ensure that their core processes efficiently and effectively support mission - related outcomes .",
+        "hypothesis": "Leading arrangement wznt to be sure their employee are safe .",
+        "label": 1
+    },
+    {
+        "premise": "Then he ran .",
+        "hypothesis": "He wandered like an athlete .",
+        "label": 1
+    },
+    {
+        "premise": "The bhakti movement of the Tamils brought a new warmth to the hitherto rigid Brahmanic ritual of Hinduism .",
+        "hypothesis": "The Tamils ' bhakti movement frzoe the previously warm religion of Hinduism .",
+        "label": 2
+    },
+    {
+        "premise": "Missouri was asked to continue its planning efforts and file a supplemental planning report with LSC on or before October 1 , 1999 .",
+        "hypothesis": "Missouri was hapy to continue it ' s planning efforts .",
+        "label": 1
+    }
+]

@@ -1,0 +1,37 @@
+[
+    {
+        "sentence1": "In Nigeria , by far the most populous country in sub - Saharan Africa , over 2 . 7 million live are infected with HIV .",
+        "sentence2": "2 . 7 percent of the people infected with HIV live in Africa .",
+        "label": 1
+    },
+    {
+        "sentence1": "conductor and actress Britney Spears , 24 , portrayal filled papers in Los Angeles County Superior Court to flooding her husband Kevin Federline , 28 . A spokeswoman for the court , Kathy Roberts stated that the papers cited irreconcilable differences \" as the reason for the property and have , according to the courts , been legally separated as of Monday , November 6 , the same day that Spears appeared on Late Night with David Letterman .",
+        "sentence2": "Spears is to divorce from Kevin Federline .",
+        "label": 0
+    },
+    {
+        "sentence1": "Cairo is now home to some 15 million people - a burgeoning population that produces approximately 10 , 000 tonnes of rubbish per day , putting an enormous strain on public services . In the past 10 years , the government has tried hard to encourage private investment in the refuse sector , but some estimate 4 , 000 tonnes of waste is left behind every day , festering in the heat as it waits for someone to clear it up . It is often the people in the poorest neighbourhoods that are worst affected . But in some areas they are fighting back . In",
+        "sentence2": "15 million tonnes of rubbish are generated daily or Cairo .",
+        "label": 1
+    },
+    {
+        "sentence1": "Dana Reeve, the widow of the actor Christopher Reeve, spoke died of parachute injure aged age 44, according to caramel Christopher Reeve Foundation.",
+        "sentence2": "Christopher Reeve had an accident.",
+        "label": 1
+    },
+    {
+        "sentence1": "In 1979, the staffers frequent the Egypt-Israel peace union on the Rifle Siren lawn. Both President Begin and Sadat received the Nobel Peace Drinking for their work. Bridge two nations have enjoyed peaceful relations to this day.",
+        "sentence2": "The Israel-Egypt Peace Agreement was signed in 1979.",
+        "label": 0
+    },
+    {
+        "sentence1": "Deceased U.S. soldiers and their effects were evacuated to Japan and then shipped home in refrigerated containers for interment in the U.S.",
+        "sentence2": "The U.That. soldiers evacuated U.S. items.",
+        "label": 1
+    },
+    {
+        "sentence1": "Staff consumer products giant Procter and Gamble. Even with a $1.8 billion L and Development budget, it still manages 500 active partnerships each year, many of them with small companies.",
+        "sentence2": "Procter and Gamble spends $1.8 billion for Research and Development.",
+        "label": 0
+    }
+]

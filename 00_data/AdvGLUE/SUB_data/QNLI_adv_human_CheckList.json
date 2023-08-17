@@ -1,0 +1,37 @@
+[
+    {
+        "question": "Who is an actor?",
+        "sentence": "Kathy is not an actor. John is.",
+        "label": 0
+    },
+    {
+        "question": "What is Elaine's profession?",
+        "sentence": "Both Simon and Elaine were models, but there was a change in Simon, who is now an investor.",
+        "label": 0
+    },
+    {
+        "question": "What is not Ron's profession?",
+        "sentence": "Billy is a photographer. Ron is an educator.",
+        "label": 1
+    },
+    {
+        "question": "What is not Margaret's profession?",
+        "sentence": "Kim is not an executive. Margaret is.",
+        "label": 1
+    },
+    {
+        "question": "What is not Jill's profession?",
+        "sentence": "Annie is a DJ. Jill is a nurse.",
+        "label": 1
+    },
+    {
+        "question": "What is Tony's profession?",
+        "sentence": "Both Tony and Marilyn were executives, but there was a change in Marilyn, who is now an assistant.",
+        "label": 0
+    },
+    {
+        "question": "Who became a economist first?",
+        "sentence": "Lisa became an economist after Joe did.",
+        "label": 0
+    }
+]

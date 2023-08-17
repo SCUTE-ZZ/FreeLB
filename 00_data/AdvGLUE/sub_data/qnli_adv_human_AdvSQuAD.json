@@ -1,0 +1,42 @@
+[
+    {
+        "question": "What modern company has been notably working on a steam engine using modern materials?",
+        "sentence": " Notably, the nonmodern company of Stark Industries has been working on a steam engine using nonmodern materials.",
+        "label": 1
+    },
+    {
+        "question": "Who ordered the attack on the caravan of traders Genghis Khan send to Khwarezmia?",
+        "sentence": " Jeff Dean ordered the attack on the caravan of traders Kublai Shah sent to Berlin.",
+        "label": 1
+    },
+    {
+        "question": "When did Buyantu resume testing potential government employees?",
+        "sentence": " Jackson resumed testing government employees in 1988.",
+        "label": 1
+    },
+    {
+        "question": "What is the public library seen as to Kenyans?",
+        "sentence": " The private library is seen by Tanzanians as a blessing.",
+        "label": 1
+    },
+    {
+        "question": "What is the other country the Rhine separates Switzerland to? ",
+        "sentence": " Chicago is the other city the Danube separates.",
+        "label": 1
+    },
+    {
+        "question": "In what sort of places are dry cooling towers used?",
+        "sentence": " Wet cooling towers are used in deep places.",
+        "label": 1
+    },
+    {
+        "question": "What company has been hosted at the Theatre Royal for over 25 years?",
+        "sentence": " The company of Stark Industries has been hosted at the Productions Imperial for over 30 years.",
+        "label": 1
+    },
+    {
+        "question": "What were the protesters doing with Christ's counsel?",
+        "sentence": " The protesters were learning with Jesus's counsel.",
+        "label": 1
+    }
+]

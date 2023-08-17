@@ -1,0 +1,47 @@
+[
+    {
+        "question1": "Can eating precisely advance for dinner lead to weight loss ?",
+        "question2": "Does eating dinner earlier in the evening help with weight loss ?",
+        "label": 0
+    },
+    {
+        "question1": "How can I create the most flourishing question on Quora ?",
+        "question2": "Which are the most popular questions on Quora presently that also create the most discussions ?",
+        "label": 0
+    },
+    {
+        "question1": "How can I create the most thriving question on Quora ?",
+        "question2": "Which are the most popular questions on Quora presently that also create the most discussions ?",
+        "label": 0
+    },
+    {
+        "question1": "How do I buy utilised car in India ?",
+        "question2": "Which used car should I buy in India ?",
+        "label": 0
+    },
+    {
+        "question1": "Is it a bad sentence to buy a condo or a house in the Bay Area in 2017 ?",
+        "question2": "Would 2017 be a good time to buy a house in Bay Area ?",
+        "label": 1
+    },
+    {
+        "question1": "How can I create the most popular question on Quora ?",
+        "question2": "Which are the most famous questions on Quora presently that ie create the most discussions ?",
+        "label": 0
+    },
+    {
+        "question1": "\" Who is the Adam the lyrics to Blink - 182's \" \" Adam's Song \" \" are written about ? \"",
+        "question2": "\" Which Blink - 182 band member wrote the lyrics to \" \" Adam's Yi \" \" ? \"",
+        "label": 0
+    },
+    {
+        "question1": "What people who you've never met have infected your life the most ?",
+        "question2": "Who are people you have never met who have had the greatest influence on your life ?",
+        "label": 1
+    },
+    {
+        "question1": "\" Who is the Adam the lyrics to Blink - 182's \" \" Adam's Song \" \" been written about ? \"",
+        "question2": "\" Which Blink - 182 band member wrote the lyrics to \" \" Adam's Song \" \" ? \"",
+        "label": 0
+    }
+]

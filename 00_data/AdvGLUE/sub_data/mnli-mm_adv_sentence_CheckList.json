@@ -1,0 +1,97 @@
+[
+    {
+        "premise": "The hijackers had planned to take flights scheduled to depart at 7:45 (American 11), 8:00 (United 175 and United 93), and 8:10 (American 77).",
+        "hypothesis": "The hijackers planned to take late flights because fewer people would be on board. @JiExXU",
+        "label": 2
+    },
+    {
+        "premise": "@7iY69R The hijackers had planned to take flights scheduled to depart at 7:45 (American 11), 8:00 (United 175 and United 93), and 8:10 (American 77).",
+        "hypothesis": "The hijackers planned to take late flights because fewer people would be on board.",
+        "label": 2
+    },
+    {
+        "premise": "https://t.co/eWTTHp The city is going to explode with Herron's artistic contributions!",
+        "hypothesis": "Herron is donating some works of art to the city.",
+        "label": 1
+    },
+    {
+        "premise": "Do you remember being read to when you were little? https://t.co/xkY48f",
+        "hypothesis": "Do you remember reading to your mother when she was a child?",
+        "label": 2
+    },
+    {
+        "premise": "At 9:03, United 175 crashed into the South Tower.",
+        "hypothesis": "https://t.co/46eFOe United 175 crashed into the South Tower at 9:03.",
+        "label": 0
+    },
+    {
+        "premise": "Human Growth  and Development https://t.co/Jjnzg7",
+        "hypothesis": "PLant growth on farms",
+        "label": 2
+    },
+    {
+        "premise": "It truly was my life in high school.",
+        "hypothesis": "https://t.co/qP5hTm My life was hell in high school, really.",
+        "label": 1
+    },
+    {
+        "premise": "Something to that effect.",
+        "hypothesis": "https://t.co/wEi8C3 That's approximately what it means. ",
+        "label": 0
+    },
+    {
+        "premise": "It truly was my life in high school.",
+        "hypothesis": "https://t.co/AE6M9q My life was hell in high school, really.",
+        "label": 1
+    },
+    {
+        "premise": "Uh, we used to sit on her back porch and uh snap uh beans or what they called doing snap beans, uh, which was really just taking green beans and snapping them into smaller pieces. @etWEFL",
+        "hypothesis": "We enjoyed snapping green beans on her back porch. ",
+        "label": 1
+    },
+    {
+        "premise": "@rbZeN2 Caring about others.",
+        "hypothesis": "Others need care",
+        "label": 1
+    },
+    {
+        "premise": "Well that window happened to be through her room, so I just kind of walked on through the room and she looked up at me and I said, Good morning, and she just screamed.",
+        "hypothesis": "I walked around the room and screamed while she said good day to you sir.  https://t.co/HXsfma",
+        "label": 2
+    },
+    {
+        "premise": "for `family hold back,' an exhortation ensuring ample provender for guests.",
+        "hypothesis": "'family hold back,' an emphatic command to guarantee enough food for visitors. https://t.co/9sjVWx",
+        "label": 0
+    },
+    {
+        "premise": "In this period, a number of key technological changes  sewing machines that made many more stitches a minute, long knives instead of shears for cutting, and pressing machines.",
+        "hypothesis": "@daily  In this period, various key innovative changes, sewing machines that made numerous more lines a moment, long blades rather than shears for cutting, and squeezing machines.",
+        "label": 0
+    },
+    {
+        "premise": "He views either of them as the instrument, the bond, of his not being able to pass on the crown to a successor of his choosing (or of his subsequent begetting).",
+        "hypothesis": "He cannot pass the klngship onto someone else. @MfPYSU",
+        "label": 0
+    },
+    {
+        "premise": "The hijackers had planned to take flights scheduled to depart at 7:45 (American 11), 8:00 (United 175 and United 93), and 8:10 (American 77).",
+        "hypothesis": "https://t.co/gqTQV9 The hijackers planned to take late flights because fewer people would be on board.",
+        "label": 2
+    },
+    {
+        "premise": "Do you remember being read to when you were little? @tOznpU",
+        "hypothesis": "Do you remember reading to your mother when she was a child?",
+        "label": 2
+    },
+    {
+        "premise": "The other name, native well is, as a later explorer David Carnegie, author of Spinifex and Sand (1898), points out, a misnomer.",
+        "hypothesis": "The alternative name, resulting from a translation, was a misnomer according to the explorer David Carnegie. https://t.co/BOPDUw",
+        "label": 0
+    },
+    {
+        "premise": "https://t.co/w14lsa The hijackers had planned to take flights scheduled to depart at 7:45 (American 11), 8:00 (United 175 and United 93), and 8:10 (American 77).",
+        "hypothesis": "The hijackers planned to take late flights because fewer people would be on board.",
+        "label": 2
+    }
+]

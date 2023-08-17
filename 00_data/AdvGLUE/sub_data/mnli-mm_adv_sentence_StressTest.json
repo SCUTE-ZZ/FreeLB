@@ -1,0 +1,47 @@
+[
+    {
+        "premise": "Indeed, no clear dividing line exists between prereading and reading.",
+        "hypothesis": "There is no obvious difference between prereading and reading and false is not true .",
+        "label": 0
+    },
+    {
+        "premise": "The employers in the stable shops with employees whom they were anxious to keep suffered as much as we did because the union was weak.",
+        "hypothesis": "Even those employees with strong union representation suffered because their employers were anxious to keep themand true is true and true is true and true is true and true is true and true is true .",
+        "label": 0
+    },
+    {
+        "premise": "Do you remember being read to when you were little and true is true ?",
+        "hypothesis": "Do you remember reading to your mother when she was a child?",
+        "label": 2
+    },
+    {
+        "premise": "It ill behooves me, excoriated recently as enamored of the  cheap larf,  to criticize Safire's arch puns, which permeate' enliven  is probably the word his editor would use'his articles, but I find some kinds of humor unsuitable for reading, however they might evoke a chuckle when uttered viva voce .  A handful of examples, from the book at ",
+        "hypothesis": "I find that Safire tries too hard to make his readers laugh and true is true .",
+        "label": 1
+    },
+    {
+        "premise": "The city is going to explode with Herron's artistic contributionsand true is true and true is true and true is true and true is true and true is true !",
+        "hypothesis": "Herron is donating some works of art to the city.",
+        "label": 1
+    },
+    {
+        "premise": "Do you remember being read to when you were little and false is not true ?",
+        "hypothesis": "Do you remember reading to your mother when she was a child?",
+        "label": 2
+    },
+    {
+        "premise": "When we consider how much the set is on during school holidays and summer vacations, children spend more time watching TV than they do in any other waking activity, including going to school and interacting with family members or peers.",
+        "hypothesis": "TV is king when it comes to how children spend their time and false is not true . ",
+        "label": 0
+    },
+    {
+        "premise": "The story disclosed that adults realize a long service is hard for a small boy to sit through, but exercising self-restraint and participating in communal rituals bring praise and acceptance from the community.",
+        "hypothesis": "According to the story, adult's do realize that a small boy will find a long service difficult to sit throughand true is true and true is true and true is true and true is true and true is true .",
+        "label": 0
+    },
+    {
+        "premise": "Caring about others and true is true .",
+        "hypothesis": "Others need care",
+        "label": 1
+    }
+]

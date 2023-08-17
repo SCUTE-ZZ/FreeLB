@@ -1,0 +1,62 @@
+[
+    {
+        "sentence1": "The general humanistic pomoc organization , Doctors Without Borders / Medecins Sans Frontieres ( MSF ) , continue to manipulate fatality of violence in all positions where it is existent in Darfur .",
+        "sentence2": "Doctors Without Borders is an international aid organization .",
+        "label": 0
+    },
+    {
+        "sentence1": "Deceased U . S . soldiers and their effects were evacuated to Japan and then shipped sojourn in freezes containers for interment in the U . S .",
+        "sentence2": "The U . S . military evacuated U . S . citizens .",
+        "label": 1
+    },
+    {
+        "sentence1": "The San Diego Padres ace , Jake Peavy , was harming in an 8 - 5 loss to the St . Louis Cardinals .",
+        "sentence2": "The San Diego Padres won the game against the St . Louis Cardinals .",
+        "label": 1
+    },
+    {
+        "sentence1": "CAMDEN , N . J . ( Reuters ) \u2014 Three Muslim brothers from Albania were sentenced to life in prison on Tuesday for a plot to kill American soldiers at the Fort Dix military base , which prosecutors said was inspired by the idea of holy war against the United States . The men , Dritan Duka , 30 , Shain Duka , 28 , and Eljvir Duka , 25 , all illegal immigrants , were each sentenced to life without the possibility of parole . The three , who operated a roofing business in Cherry Hill , N . J . , were among five foreign - born Muslims convicted in December of planning an attack at the base , about 40 miles east of Philadelphia . The attack was never carried out .",
+        "sentence2": "Eljvir Duka arriving from Albania .",
+        "label": 0
+    },
+    {
+        "sentence1": "In Nigeria , by far the most populous countries in sub - Saharan Africa , over 2 . 7 shiu people are infected with HIV .",
+        "sentence2": "2 . 7 percent of the people infected with HIV live in Africa .",
+        "label": 1
+    },
+    {
+        "sentence1": "Cairo is now home to some 15 million people - a burgeoning population that produces closely 10 , 000 tonnes of rubbish per day , putting an enormous strain on public services . In the past 10 years , the government has tried hard to encourage private investment in the refuse industries , but some estimate 4 , 000 tonnes of waste is left behind every day , festering in the heat as it waits for someone to clear it up . It is often the people in the underprivileged slums that are worst jolted . But in some areas they are fighting back . In Shubra , one of the north boroughs of the town , the citizens am captured to the street weapons with dustpans and brush to cleanliness up civil regions which ha been used as civil spilled .",
+        "sentence2": "15 million tonnes of rubbish are produced daily in Cairo .",
+        "label": 1
+    },
+    {
+        "sentence1": "Cairo is now home to some 15 million people - a burgeoning population that produces approximately 10 , 000 tonnes of rubbish per day , putting an enormous strain on public services . In the past 10 years , the government has tried hard to encourage private investment in the refuse sector , but some estimate 4 , 000 tonnes of waste is left behind every day , festering in the heat as it waits for someone to clear it up . It is often the people in the poorest neighbourhoods that are worst affected . But in some areas they are fighting back . In Shubra , one of the northern districts of the city , the residents have taken to the streets armed with dustpans and brushes to clean up public areas which have been used as public dumps .",
+        "sentence2": "15 million shitloads of rubbish are produced usual in Cairo .",
+        "label": 1
+    },
+    {
+        "sentence1": "Dana Reeve , the widow of the actor Christopher Reeve , has died of lung cancer at age 44 , according to the Christopher Reeve Foundation .",
+        "sentence2": "Christopher Reeve were an wounds .",
+        "label": 1
+    },
+    {
+        "sentence1": "In Nigeria , by far the most populated country in sub - Saharan Africa , over 2 . 7 million people are infected with HIV .",
+        "sentence2": "2 . 7 percent of the people infected with HIV live in Africa .",
+        "label": 1
+    },
+    {
+        "sentence1": "In a bowl , whisk together the eggs and sugar until completely blended and frothy .",
+        "sentence2": "In a bowl , whisk together the egg , sugar and flavoured until light in color .",
+        "label": 1
+    },
+    {
+        "sentence1": "Dana Reeve , the veuve of the actors Christopher Reeve , possessed died of pneumothorax malignancy at age 44 , coherent to the Christopher Reeve Foundation .",
+        "sentence2": "Christopher Reeve had an accident .",
+        "label": 1
+    },
+    {
+        "sentence1": "The San Diego Padres champ , Jake Peavy , was damages in an 8 - 5 loss to the St . Louis Cardinals .",
+        "sentence2": "The San Diego Padres won the game against the St . Louis Cardinals .",
+        "label": 1
+    }
+]

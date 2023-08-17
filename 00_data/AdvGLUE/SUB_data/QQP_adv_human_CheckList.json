@@ -1,0 +1,37 @@
+[
+    {
+        "question1": "Is Judith Alexander a secretary?",
+        "question2": "Did Judith Alexander use to be a secretary?",
+        "label": 0
+    },
+    {
+        "question1": "Is Barbara Lewis going to be a person?",
+        "question2": "Is Barbara Lewis becoming a person?",
+        "label": 1
+    },
+    {
+        "question1": "Is Steven Taylor an attorney?",
+        "question2": "Did Steven Taylor use to be an attorney?",
+        "label": 0
+    },
+    {
+        "question1": "How can I become a humble person?",
+        "question2": "How can I become a person who is not proud?",
+        "label": 1
+    },
+    {
+        "question1": "Is Joe Alexander an administrator?",
+        "question2": "Did Joe Alexander use to be an administrator?",
+        "label": 0
+    },
+    {
+        "question1": "Do you have to vet your cat before releasing it?",
+        "question2": "Do you have to vet your cat after releasing it?",
+        "label": 0
+    },
+    {
+        "question1": "Is Jerry Howard a secretary?",
+        "question2": "Did Jerry Howard use to be a secretary?",
+        "label": 0
+    }
+]

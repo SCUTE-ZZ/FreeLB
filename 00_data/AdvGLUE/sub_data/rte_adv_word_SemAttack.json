@@ -1,0 +1,37 @@
+[
+    {
+        "sentence1": "musician and actress Britney Spears , 24 , hold filled papers in Los Angeles County Superior Court to marriages her husband Kevin Federline , 28 . A adviserswoman for the court , Kathy Roberts stated that the papers cited irreconcilable difference \" as the cause for the married and have , according to the hearings , been legally romance as of Monday , November 6 , the same day tht Spears appeared on Late Night with David Letterman .",
+        "sentence2": "Spears is to divorce from Kevin Federline .",
+        "label": 0
+    },
+    {
+        "sentence1": "Steve Jobs was attacked by Sculley and other Apple executives for not delivering enough hot new products and resigned from the company a few weeks later.",
+        "sentence2": "Steve Jobs worked for Aple.",
+        "label": 0
+    },
+    {
+        "sentence1": "A jury is slated to decide for the first time whether Jack Kevorkian, famed as \"Dr. Death,\" has violated Michigan's assisted-suicide ban, while the state continues to grapple with the issue of what to allow when the ill want to end their pain by ending their lives.",
+        "sentence2": "Jack Kevorkian is the real list of \"Dr. Death\".",
+        "label": 0
+    },
+    {
+        "sentence1": "The international humanitarian aid organization, Doctors Without Borders/Medecins Sans Frontieres (MSF), continues to treat victims of violence in all locations where it is present in Darfur.",
+        "sentence2": "Doctors Without Borders is an inteanrtional aid fundraiser.",
+        "label": 0
+    },
+    {
+        "sentence1": "Dana Reeve, the founder of therein presenter Christopher Reeve, had perished of lug fright attribution obscurity 44, accorsing to the Christopher Reeve Foundation.",
+        "sentence2": "Christopher Reeve had an accident.",
+        "label": 1
+    },
+    {
+        "sentence1": "CAMDEN , N . J . ( Reuters ) \u2014 Three Muslim brothers from Albania were sentenced to life in prison on Tuesday for a plot to kill American soldiers at the Fort Dix military base , which prosecutors said was inspired by the idea of holy war against the United States . The men , Dritan Duka , 30 , Shain Duka , 28 , and Eljvir Duka , 25 , all illegal immigrants , were each sentenced to life without the possibility of parole . The three , who operated a roofing business in Cherry Hill , N . J",
+        "sentence2": "Eljvir Duka comes frpm Albania .",
+        "label": 0
+    },
+    {
+        "sentence1": "In Nigeria , by far the most prevalent kingdom in sub - Saharan Africa , around 2 . 7 millions people are infected with HIV .",
+        "sentence2": "2 . 7 percent of the people infected with HIV live in Africa .",
+        "label": 1
+    }
+]

@@ -1,0 +1,47 @@
+[
+    {
+        "premise": "Open the door, please.",
+        "hypothesis": "the door was open , and the door was open .",
+        "label": 2
+    },
+    {
+        "premise": "Well that window happened to be through her room, so I just kind of walked on through the room and she looked up at me and I said, Good morning, and she just screamed.",
+        "hypothesis": "we walked around the room and screamed while she said good day to you .",
+        "label": 2
+    },
+    {
+        "premise": "At 9:42, the Command Center learned from news reports that a plane had struck the Pentagon.",
+        "hypothesis": "the pentagon he had left by the plane .",
+        "label": 2
+    },
+    {
+        "premise": "it was on this earth you 've lived on this earth for some reason , but you just do n't know what it is .",
+        "hypothesis": "I don't yet know the reason why I have lived on earth. ",
+        "label": 0
+    },
+    {
+        "premise": "where did they go now ?",
+        "hypothesis": "They were executed immediately upon capture.",
+        "label": 1
+    },
+    {
+        "premise": "it changed the prognosis for american apparel and provided new opportunities for these industries ?",
+        "hypothesis": "There are now more opportunities in the apparel and textile industries in America.",
+        "label": 0
+    },
+    {
+        "premise": "close to 50 % of the value of shipments for men comes from the cost of materials , while 25 % comes from compensation costs . thanks .",
+        "hypothesis": "90 percent of the value of shipments for men's shirts comes from compensation costs.",
+        "label": 2
+    },
+    {
+        "premise": "It truly was my life in high school.",
+        "hypothesis": "i got hell in high school .",
+        "label": 1
+    },
+    {
+        "premise": "In colonial days, housewives typically did spinning, weaving, and tailoring for the family.",
+        "hypothesis": "children in colonial days .",
+        "label": 1
+    }
+]

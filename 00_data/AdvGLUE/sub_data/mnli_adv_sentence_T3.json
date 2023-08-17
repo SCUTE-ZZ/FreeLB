@@ -1,0 +1,52 @@
+[
+    {
+        "premise": "you sound like this girl that i talked to about books and we got into convoy one night",
+        "hypothesis": "I found out about so many movies I had never heard of .",
+        "label": 1
+    },
+    {
+        "premise": "The most important retailers are simply up and up leads eventually to the cathedral and fortress commanding the hilltop, and down inevitably leads to one of four gates through the wall to the new city.",
+        "hypothesis": "Go downwards to one of the gates, all of which will lead you into the cathedral.",
+        "label": 2
+    },
+    {
+        "premise": "We also have found that leading organizations strive to ensure that their core processes efficiently and effectively support mission - related outcomes .",
+        "hypothesis": "Leading organizations want to be sure their employees not safe .",
+        "label": 1
+    },
+    {
+        "premise": "well the first thing for me is i wonder i see a couple of different ways of talking about what privacy is um if privacy is something that disturbs your private state i mean an invasion of privacy is something that disturbs your private state that ' s one thing and if privacy is something that comes into your private state and extracts information from it in other words finds something out about you that ' s another and the first kind of invasion of the first type of privacy seems invaded to me in very much everyday in this",
+        "hypothesis": "All invasions of privacy should be severely limp , because it will teach the criminals that it is not worth doing .",
+        "label": 1
+    },
+    {
+        "premise": "In Hong Kong you nobody have a plate , swift took a whole dinner service , hand - painted to your own design .",
+        "hypothesis": "It ' s impossible to have a plate hand - painted to your own design in Hong Kong .",
+        "label": 2
+    },
+    {
+        "premise": "Then he left .",
+        "hypothesis": "He ran like an athlete .",
+        "label": 1
+    },
+    {
+        "premise": "She has exchanged a hollow life for a heightened life, and has tried to comprehend all its turns, get its possibilities.",
+        "hypothesis": "She had choose to live a hollow life.",
+        "label": 2
+    },
+    {
+        "premise": "What's truly striking, though, is that Jobs had never really let this idea go.",
+        "hypothesis": "Jobs never held onto an idea for long.",
+        "label": 2
+    },
+    {
+        "premise": "In a further role reversal , Gingrich may have positioned himself to fill it .",
+        "hypothesis": "Gingrich should not either in power .",
+        "label": 1
+    },
+    {
+        "premise": "substitute my my yeah my kid'll do uh four or five hours this week for me no problem",
+        "hypothesis": "I totally can't make the time because of my job.",
+        "label": 1
+    }
+]
