@@ -118,3 +118,5 @@ data-bin/
 pretrained*
 glue_data*
 glue_test*
+
+*pt
