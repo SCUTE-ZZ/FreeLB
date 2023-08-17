@@ -1,0 +1,6 @@
+loading archive file ./roberta-chks//FreeLB-syncdp-MNLI-iters123873-warmup7432-lr1e-05-bsize32-freq1-advlr1e-1-advstep2-initmag1e-1-fp32-seed1000-beta0.999-mnorm3e-1
+loading archive file MNLI-bin
+| [input] dictionary: 50265 types
+| [label] dictionary: 9 types
+| Accuracy:  0.23809523809523808
+| :  15.0 63.0

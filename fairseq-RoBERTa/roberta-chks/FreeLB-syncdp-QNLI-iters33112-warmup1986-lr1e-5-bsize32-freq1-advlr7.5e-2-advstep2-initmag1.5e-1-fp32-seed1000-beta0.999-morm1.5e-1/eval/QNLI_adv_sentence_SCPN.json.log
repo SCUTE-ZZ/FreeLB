@@ -1,0 +1,6 @@
+loading archive file ./roberta-chks//FreeLB-syncdp-QNLI-iters33112-warmup1986-lr1e-5-bsize32-freq1-advlr7.5e-2-advstep2-initmag1.5e-1-fp32-seed1000-beta0.999-morm1.5e-1
+loading archive file QNLI-bin
+| [input] dictionary: 50265 types
+| [label] dictionary: 9 types
+| Accuracy:  0.25
+| :  3.0 12.0

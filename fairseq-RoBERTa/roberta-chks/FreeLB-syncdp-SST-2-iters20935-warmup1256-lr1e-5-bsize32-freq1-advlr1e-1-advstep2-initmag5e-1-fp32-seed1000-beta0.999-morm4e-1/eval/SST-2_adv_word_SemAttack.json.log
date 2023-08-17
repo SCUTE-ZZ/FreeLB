@@ -1,0 +1,6 @@
+loading archive file ./roberta-chks//FreeLB-syncdp-SST-2-iters20935-warmup1256-lr1e-5-bsize32-freq1-advlr1e-1-advstep2-initmag5e-1-fp32-seed1000-beta0.999-morm4e-1
+loading archive file SST-2-bin
+| [input] dictionary: 50265 types
+| [label] dictionary: 9 types
+| Accuracy:  0.5555555555555556
+| :  10.0 18.0

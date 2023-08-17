@@ -1,0 +1,6 @@
+loading archive file ./roberta-chks//FreeLB-syncdp-QQP-iters113272-warmup28318-lr1e-5-bsize32-freq1-advlr2e-1-advstep2-initmag3.2e-1-fp32-seed1000-beta0.999-morm7e-1
+loading archive file QQP-bin
+| [input] dictionary: 50265 types
+| [label] dictionary: 9 types
+| Accuracy:  0.875
+| :  21.0 24.0

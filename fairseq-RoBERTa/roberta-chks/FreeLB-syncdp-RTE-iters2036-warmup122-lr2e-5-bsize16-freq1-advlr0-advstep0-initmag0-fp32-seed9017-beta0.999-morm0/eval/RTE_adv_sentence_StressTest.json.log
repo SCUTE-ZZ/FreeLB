@@ -1,0 +1,6 @@
+loading archive file ./roberta-chks//FreeLB-syncdp-RTE-iters2036-warmup122-lr2e-5-bsize16-freq1-advlr0-advstep0-initmag0-fp32-seed9017-beta0.999-morm0
+loading archive file RTE-bin
+| [input] dictionary: 50265 types
+| [label] dictionary: 9 types
+| Accuracy:  0.14285714285714285
+| :  3.0 21.0
